@@ -17,7 +17,6 @@ Kattis problems when I am bored/feel like I need brushing up
 | Tarifa | [Tarifa.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tarifa.py)  | [Tarifa](https://open.kattis.com/problems/tarifa)  |
 | Tetration | [Tetration.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [Tetration](https://open.kattis.com/problems/tetration)  |
 | The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
-| The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
 | Track Smoothing | [TrackSmoothing.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrackSmoothing.py)  | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing)  |
 | Transit Woes | [TransitWoes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
