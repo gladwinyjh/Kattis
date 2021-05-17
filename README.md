@@ -33,3 +33,4 @@ Mostly easy problems
 | Yin and Yang Stones | [YinAndYangStones.py](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)  |
 | Yoda  | [Yoda.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [Yoda](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Zamka.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [Zamka](https://open.kattis.com/problems/zamka)  |
+| Zyxab | [Zyxab.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Zyxab.java)  | [Zyxab](https://open.kattis.com/problems/zyxab)  |
