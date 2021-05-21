@@ -8,6 +8,8 @@ Mostly easy problems
 | ABC | [ABC.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ABC.py)  | [ABC](https://open.kattis.com/problems/abc)  |
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
+| Alphabet Animals | [AlhabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
+| Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.py)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
