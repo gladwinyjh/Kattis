@@ -1,7 +1,7 @@
 # Kattis
 Kattis problems when I am bored/feel like I need brushing up
 
-Mostly easy problems
+Mostly easy problems that don't require me to read a lot
 
 | Problem  | Code | Kattis Link |
 | ---| --- | --- |
