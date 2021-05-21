@@ -43,7 +43,7 @@ public class Bard {
                 HashMap<Integer, Integer> map1 = new HashMap<>();
                 
                 for (int j = 0; j < arr.length; j++) {
-                    map1.putAll(map.get(arr[j]));
+                    map1.putAll(map.get(arr[j])); //Union sets, or get all the unique songs
                 }
 
                 for (int j = 0; j < arr.length; j++) {
@@ -60,7 +60,5 @@ public class Bard {
                 System.out.println(i);
             }
         }
-
-
     }
 }
