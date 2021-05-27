@@ -10,6 +10,7 @@ Mostly easy problems that don't require me to read a lot
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
 | Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
+| Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
