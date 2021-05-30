@@ -13,6 +13,7 @@ Mostly easy problems that don't require me to read a lot
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
+| Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
