@@ -13,6 +13,7 @@ Mostly easy problems that don't require me to read a lot
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
+| Bungee Builder | [BungeeBuilder.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
@@ -36,6 +37,7 @@ Mostly easy problems that don't require me to read a lot
 | Volim | [Volim.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [Volim](https://open.kattis.com/problems/volim)  |
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Warehouse.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
+| Where's My Internet | [WheresMyInternet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
 | Yin and Yang Stones | [YinAndYangStones.py](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)  |
 | Yoda  | [Yoda.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [Yoda](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Zamka.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [Zamka](https://open.kattis.com/problems/zamka)  |
