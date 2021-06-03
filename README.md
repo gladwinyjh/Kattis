@@ -18,6 +18,7 @@ Mostly easy problems that don't require me to read a lot
 | CD | [CD.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
+| Integer Lists | [IntegerLists.py](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
 | Shopping List | [ShoppingList.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
