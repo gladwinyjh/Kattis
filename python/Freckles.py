@@ -15,7 +15,6 @@ def process(node, visited, adjList, A, B, cost):
     A[node][0] = float('inf')
 
     for v, w in enumerate(adjList[node]):
-        # print("v: {}, w: {} ".format(v,w))
         if (not visited[v]) and (A[v][0] > w):
             A[v] = [w,v]
             B[v] = w
