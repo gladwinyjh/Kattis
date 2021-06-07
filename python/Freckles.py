@@ -15,14 +15,9 @@ def process(node, visited, adjList, A, B, cost):
     A[node][0] = float('inf')
 
     for v, w in enumerate(adjList[node]):
-        # print("v: {}, w: {} ".format(v,w))
         if (not visited[v]) and (A[v][0] > w):
             A[v] = [w,v]
             B[v] = w
-            # print("Adding new edge: {}, {}".format(w,v))
-            # print("A: {} ".format(A))
-            # print("B: {} ".format(B))
-            # print("Visited: {}".format(visited))
     
 
 
@@ -39,11 +34,8 @@ def prims(list, n):
     
     for i in range(1,n):
         w, v = min(A, key=lambda x: x[0])
-        # print("v: {}, w: {} ".format(v,w))
         T.append(v)
         process(v, visited, list, A, costList, cost)
-        # print("Tree: ", T)
-        # print(costList)
 
     for i in range(n):
         cost += costList[i]
@@ -72,6 +64,5 @@ for i in range(t):
             adjList[i][j] = coordinates[i].calDist(coordinates[j])
             adjList[j][i] = coordinates[i].calDist(coordinates[j])
 
-    # print(adjList)
     mstCost = prims(adjList, n)
     print("%.2f" % mstCost)
