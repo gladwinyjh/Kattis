@@ -18,7 +18,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bungee Jumping | [BungeeJumping.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
 | CD | [CD.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
-| Grandpa Bernie | [GrandpaBernie.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Guessing Game](https://open.kattis.com/problems/grandpabernie)  |
+| Grandpa Bernie | [GrandpaBernie.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [GuessingGame.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [IntegerLists.py](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
