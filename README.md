@@ -6,6 +6,7 @@ Mostly easy problems that don't require me to read a lot.
 | Problem  | Code | Kattis Link |
 | ---| --- | --- |
 | ABC | [ABC.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ABC.py)  | [ABC](https://open.kattis.com/problems/abc)  |
+| Adding Words | [AddingWords.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
