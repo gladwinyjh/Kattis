@@ -9,7 +9,7 @@ Mostly easy problems that don't require me to read a lot.
 | Adding Words | [AddingWords.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
-| Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
+| Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
 | Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
