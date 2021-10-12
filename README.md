@@ -30,6 +30,7 @@ Mostly easy problems that don't require me to read a lot.
 | Paradox With Averages (Hard) | [ParadoxWithAveragesHard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
+| Score! | [Score.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
 | Shopping List | [ShoppingList.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Stand on Zanzibar | [StandOnZanzibar.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [StopWatch.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [Stopwatch](https://open.kattis.com/problems/stopwatch)  |
@@ -40,6 +41,7 @@ Mostly easy problems that don't require me to read a lot.
 | Tetration | [Tetration.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [Tetration](https://open.kattis.com/problems/tetration)  |
 | The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
+| Toilet Seat | [ToiletSeat.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
 | Track Smoothing | [TrackSmoothing.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrackSmoothing.py)  | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing)  |
 | Transit Woes | [TransitWoes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
 | Tri | [Tri.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [Tri](https://open.kattis.com/problems/tri)  |
