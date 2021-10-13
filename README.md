@@ -12,11 +12,14 @@ Mostly easy problems that don't require me to read a lot.
 | Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
 | Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
+| Another Brick in the Wall | [AnotherBrick.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)  |
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [ArrayOfDiscord.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)  |
+| Babelfish | [Babelfish.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Babelfish.py)  | [Babelfish](https://open.kattis.com/problems/babelfish)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Baloni | [Baloni.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [Baloni](https://open.kattis.com/problems/baloni)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
+| Beekeeper | [Beekeeper.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
 | Bottled-Up Feelings | [BottledUp.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
 | Bungee Builder | [BungeeBuilder.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [BungeeJumping.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
@@ -27,6 +30,7 @@ Mostly easy problems that don't require me to read a lot.
 | Guessing Game | [GuessingGame.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [IntegerLists.py](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
+| Liga | [Liga.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Paradox With Averages (Hard) | [ParadoxWithAveragesHard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
