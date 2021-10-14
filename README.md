@@ -19,6 +19,7 @@ Mostly easy problems that don't require me to read a lot.
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Baloni | [Baloni.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [Baloni](https://open.kattis.com/problems/baloni)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
+| Beat The Spread! | [BeatTheSpread.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [Beat The Spread!](https://open.kattis.com/problems/beatspread)  |
 | Beekeeper | [Beekeeper.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
 | Bottled-Up Feelings | [BottledUp.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
 | Bungee Builder | [BungeeBuilder.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
@@ -46,6 +47,7 @@ Mostly easy problems that don't require me to read a lot.
 | The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
 | Toilet Seat | [ToiletSeat.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
+| Touchscreen Keyboard | [TouchscreenKeyboard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TouchscreenKeyboard.py)  | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)  |
 | Track Smoothing | [TrackSmoothing.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrackSmoothing.py)  | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing)  |
 | Transit Woes | [TransitWoes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
 | Tri | [Tri.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [Tri](https://open.kattis.com/problems/tri)  |
