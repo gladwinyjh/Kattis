@@ -24,9 +24,13 @@ Mostly easy problems that don't require me to read a lot.
 | Bottled-Up Feelings | [BottledUp.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
 | Bungee Builder | [BungeeBuilder.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [BungeeJumping.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
+| Carousel Rides | [CarouselRides.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [Carousel Rides](https://open.kattis.com/problems/carousel)  |
 | CD | [CD.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
 | Climbing Worm | [ClimbingWorm.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
+| Code Cleanups | [CodeCleanups.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Conversation Log | [ConversationLog.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
+| Fast Food Prizes | [FastFood.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
+| FizzBuzz | [FizzBuzz.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Grandpa Bernie | [GrandpaBernie.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [GuessingGame.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
@@ -50,6 +54,7 @@ Mostly easy problems that don't require me to read a lot.
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
 | Toilet Seat | [ToiletSeat.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
 | Touchscreen Keyboard | [TouchscreenKeyboard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TouchscreenKeyboard.py)  | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)  |
+| Tower Construction | [TowerConstruction.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TowerConstruction.py)  | [Tower Construction](https://open.kattis.com/problems/tornbygge)  |
 | Track Smoothing | [TrackSmoothing.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrackSmoothing.py)  | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing)  |
 | Transit Woes | [TransitWoes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
 | Tri | [Tri.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [Tri](https://open.kattis.com/problems/tri)  |
