@@ -34,6 +34,7 @@ Mostly easy problems that don't require me to read a lot.
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Grandpa Bernie | [GrandpaBernie.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [GuessingGame.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
+| Hurricane Danger! | [HurricaneDanger.py](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [ImageDecoding.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [IntegerLists.py](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
 | Liga | [Liga.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
@@ -42,6 +43,7 @@ Mostly easy problems that don't require me to read a lot.
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
 | Score! | [Score.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
+| Scrolling Sign | [ScrollingSign.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign)  |
 | Shopping List | [ShoppingList.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Stand on Zanzibar | [StandOnZanzibar.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [StopWatch.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [Stopwatch](https://open.kattis.com/problems/stopwatch)  |
