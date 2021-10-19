@@ -10,11 +10,13 @@ Mostly easy problems that don't require me to read a lot.
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
+| An I for an Eye | [AnIForAnEye.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [An I for an Eye](https://open.kattis.com/problems/iforaneye)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
 | Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
 | Another Brick in the Wall | [AnotherBrick.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)  |
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [ArrayOfDiscord.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)  |
+| Awkward Party | [AwkwardParty.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [Awkward Party](https://open.kattis.com/problems/awkwardparty)  |
 | Babelfish | [Babelfish.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Babelfish.py)  | [Babelfish](https://open.kattis.com/problems/babelfish)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Baloni | [Baloni.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [Baloni](https://open.kattis.com/problems/baloni)  |
@@ -29,6 +31,7 @@ Mostly easy problems that don't require me to read a lot.
 | Climbing Worm | [ClimbingWorm.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [CodeCleanups.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Conversation Log | [ConversationLog.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
+| Costume Contest | [CostumeContest.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Fast Food Prizes | [FastFood.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | FizzBuzz | [FizzBuzz.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
@@ -42,8 +45,10 @@ Mostly easy problems that don't require me to read a lot.
 | Paradox With Averages (Hard) | [ParadoxWithAveragesHard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
+| Role Call | [RollCall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
 | Score! | [Score.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [ScrollingSign.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign)  |
+| Shopaholic | [Shopaholic.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [Shopaholic](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [ShoppingList.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Stand on Zanzibar | [StandOnZanzibar.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [StopWatch.py](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [Stopwatch](https://open.kattis.com/problems/stopwatch)  |
@@ -58,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Touchscreen Keyboard | [TouchscreenKeyboard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TouchscreenKeyboard.py)  | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)  |
 | Tower Construction | [TowerConstruction.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TowerConstruction.py)  | [Tower Construction](https://open.kattis.com/problems/tornbygge)  |
 | Track Smoothing | [TrackSmoothing.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrackSmoothing.py)  | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing)  |
+| Train Passengers | [TrainPassengers.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TrainPassengers.py)  | [Train Passengers](https://open.kattis.com/problems/trainpassengers)  |
 | Transit Woes | [TransitWoes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
 | Tri | [Tri.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [Tri](https://open.kattis.com/problems/tri)  |
 | Trik | [Trik.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [Trik](https://open.kattis.com/problems/trik)  |
@@ -65,6 +71,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Veci | [Veci.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [Veci](https://open.kattis.com/problems/veci)  |
 | Volim | [Volim.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [Volim](https://open.kattis.com/problems/volim)  |
+| Unique Snowflakes | [UniqueSnowflakes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [Unique Snowflakes](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Warehouse.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
 | Where's My Internet | [WheresMyInternet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
