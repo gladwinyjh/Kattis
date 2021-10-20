@@ -9,6 +9,7 @@ Mostly easy problems that don't require me to read a lot.
 | Adding Words | [AddingWords.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
+| Air Conditioned Minions | [AirConditionedMinions.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AirConditionedMinions.py)  | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)  |
 | Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
 | An I for an Eye | [AnIForAnEye.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [An I for an Eye](https://open.kattis.com/problems/iforaneye)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
@@ -23,6 +24,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
 | Beat The Spread! | [BeatTheSpread.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [Beat The Spread!](https://open.kattis.com/problems/beatspread)  |
 | Beekeeper | [Beekeeper.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
+| Biased Standings | [BiasedStandings.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [Biased Standings](https://open.kattis.com/problems/standings)  |
 | Bottled-Up Feelings | [BottledUp.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
 | Bungee Builder | [BungeeBuilder.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [BungeeJumping.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
@@ -75,6 +77,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Warehouse.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
 | Where's My Internet | [WheresMyInternet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
+| Wood Cutting | [WoodCutting.py](https://github.com/gladwinyjh/Kattis/blob/main/python/WoodCutting.py)  | [Wood Cutting](https://open.kattis.com/problems/woodcutting)  |
 | Yin and Yang Stones | [YinAndYangStones.py](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)  |
 | Yoda  | [Yoda.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [Yoda](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Zamka.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [Zamka](https://open.kattis.com/problems/zamka)  |
