@@ -19,6 +19,7 @@ Mostly easy problems that don't require me to read a lot.
 | Array of Discord| [ArrayOfDiscord.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)  |
 | Awkward Party | [AwkwardParty.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [Awkward Party](https://open.kattis.com/problems/awkwardparty)  |
 | Babelfish | [Babelfish.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Babelfish.py)  | [Babelfish](https://open.kattis.com/problems/babelfish)  |
+| Baby Bites | [BabyBites.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BabyBites.cpp)  | [Baby Bites](https://open.kattis.com/problems/babybites)  |
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Baloni | [Baloni.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [Baloni](https://open.kattis.com/problems/baloni)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
@@ -30,6 +31,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bungee Jumping | [BungeeJumping.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
 | Carousel Rides | [CarouselRides.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [Carousel Rides](https://open.kattis.com/problems/carousel)  |
 | CD | [CD.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
+| Cetiri | [Cetiri.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [Cetiri](https://open.kattis.com/problems/cetiri)  |
 | Climbing Worm | [ClimbingWorm.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [CodeCleanups.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Conversation Log | [ConversationLog.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
@@ -61,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Tetration | [Tetration.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [Tetration](https://open.kattis.com/problems/tetration)  |
 | The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
+| Time Travelling Temperatures | [TimeTravellingTemperatures.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TimeTravellingTemperatures.cpp)  | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)  |
 | Toilet Seat | [ToiletSeat.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
 | Touchscreen Keyboard | [TouchscreenKeyboard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TouchscreenKeyboard.py)  | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)  |
 | Tower Construction | [TowerConstruction.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TowerConstruction.py)  | [Tower Construction](https://open.kattis.com/problems/tornbygge)  |
