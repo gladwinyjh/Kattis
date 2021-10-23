@@ -23,6 +23,8 @@ Mostly easy problems that don't require me to read a lot.
 | Backspace | [Backspace.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [Backspace](https://open.kattis.com/problems/backspace)  |
 | Baloni | [Baloni.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [Baloni](https://open.kattis.com/problems/baloni)  |
 | Bard | [Bard.java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
+| Basic Programming 1 | [BasicProgrammingOne.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingOne.cpp)  | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)  |
+| Basic Programming 2 | [BasicProgrammingTwo.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingTwo.cpp)  | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)  |
 | Beat The Spread! | [BeatTheSpread.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [Beat The Spread!](https://open.kattis.com/problems/beatspread)  |
 | Beekeeper | [Beekeeper.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
 | Biased Standings | [BiasedStandings.py](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [Biased Standings](https://open.kattis.com/problems/standings)  |
@@ -50,6 +52,7 @@ Mostly easy problems that don't require me to read a lot.
 | Paradox With Averages (Hard) | [ParadoxWithAveragesHard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Planina | [Planina.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Postal Delivery | [PostalDelivery.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PostalDelivery.cpp)  | [Postal Delivery](https://open.kattis.com/problems/delivery)  |
+| Preludes | [Preludes.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [Preludes](https://open.kattis.com/problems/chopin)  |
 | Quadrant Selection | [QuadrantSelection.py](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
 | Recount | [Recount.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [Recount](https://open.kattis.com/problems/recount)  |
 | Role Call | [RollCall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
@@ -78,6 +81,7 @@ Mostly easy problems that don't require me to read a lot.
 | Trik | [Trik.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [Trik](https://open.kattis.com/problems/trik)  |
 | Triple Texting | [TripleTexting.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TripleTexting.py)  | [Triple Texting](https://open.kattis.com/problems/tripletexting)  |
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
+| Vaccine Efficacy | [VaccineEfficacy.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccinationEfficacy.cpp)  | [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)  |
 | Veci | [Veci.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [Veci](https://open.kattis.com/problems/veci)  |
 | Volim | [Volim.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [Volim](https://open.kattis.com/problems/volim)  |
 | Unique Snowflakes | [UniqueSnowflakes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [Unique Snowflakes](https://open.kattis.com/problems/snowflakes)  |
