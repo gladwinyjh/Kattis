@@ -81,7 +81,7 @@ Mostly easy problems that don't require me to read a lot.
 | Trik | [Trik.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [Trik](https://open.kattis.com/problems/trik)  |
 | Triple Texting | [TripleTexting.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TripleTexting.py)  | [Triple Texting](https://open.kattis.com/problems/tripletexting)  |
 | Unlock Pattern | [UnlockPattern.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
-| Vaccine Efficacy | [VaccineEfficacy.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccinationEfficacy.cpp)  | [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)  |
+| Vaccine Efficacy | [VaccineEfficacy.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccineEfficacy.cpp)  | [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)  |
 | Veci | [Veci.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [Veci](https://open.kattis.com/problems/veci)  |
 | Volim | [Volim.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [Volim](https://open.kattis.com/problems/volim)  |
 | Unique Snowflakes | [UniqueSnowflakes.py](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [Unique Snowflakes](https://open.kattis.com/problems/snowflakes)  |
