@@ -10,6 +10,7 @@ Mostly easy problems that don't require me to read a lot.
 | A Different Problem | [ADifferentProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Above Average.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Air Conditioned Minions | [AirConditionedMinions.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AirConditionedMinions.py)  | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)  |
+| All Just A Dream | [AllJustADream.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AllJustADream.cpp)  | [All Just A Dream](https://open.kattis.com/problems/dream)  |
 | Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
 | An I for an Eye | [AnIForAnEye.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [An I for an Eye](https://open.kattis.com/problems/iforaneye)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
@@ -36,8 +37,10 @@ Mostly easy problems that don't require me to read a lot.
 | Cetiri | [Cetiri.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [Cetiri](https://open.kattis.com/problems/cetiri)  |
 | Climbing Worm | [ClimbingWorm.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [CodeCleanups.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
+| Conformity | [Conformity.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Conversation Log | [ConversationLog.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [CostumeContest.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
+| Even Up Solitaire | [EvenUpSolitaire.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Fast Food Prizes | [FastFood.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | FizzBuzz | [FizzBuzz.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
@@ -49,6 +52,7 @@ Mostly easy problems that don't require me to read a lot.
 | Judging Troubles | [JudgingTroubles.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Liga | [Liga.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [LineThemUp.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [Line Them Up](https://open.kattis.com/problems/lineup)  |
+| Luhn's Checksum Algorithm | [LuhnsChecksumAlgorithm.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [MagicalCows.py](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Paradox With Averages (Hard) | [ParadoxWithAveragesHard.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [Parking.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
