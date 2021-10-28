@@ -12,10 +12,11 @@ Mostly easy problems that don't require me to read a lot.
 | Air Conditioned Minions | [AirConditionedMinions.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AirConditionedMinions.py)  | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)  |
 | All Just A Dream | [AllJustADream.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AllJustADream.cpp)  | [All Just A Dream](https://open.kattis.com/problems/dream)  |
 | Alphabet | [Alphabet.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
-| An I for an Eye | [AnIForAnEye.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [An I for an Eye](https://open.kattis.com/problems/iforaneye)  |
 | Alphabet Animals | [AlphabetAnimals.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)  |
+| An I for an Eye | [AnIForAnEye.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [An I for an Eye](https://open.kattis.com/problems/iforaneye)  |
 | Another Candies | [Another Candies.java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
 | Another Brick in the Wall | [AnotherBrick.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)  |
+| Ants | [Ants.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Ants.cpp)  | [Ants](https://open.kattis.com/problems/ants)  |
 | Arctic Network | [ArcticNetwork.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [ArrayOfDiscord.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)  |
 | Awkward Party | [AwkwardParty.py](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [Awkward Party](https://open.kattis.com/problems/awkwardparty)  |
@@ -37,6 +38,7 @@ Mostly easy problems that don't require me to read a lot.
 | Cetiri | [Cetiri.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [Cetiri](https://open.kattis.com/problems/cetiri)  |
 | Climbing Worm | [ClimbingWorm.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [CodeCleanups.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
+| Coloring Socks | [ColoringSocks.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
 | Conformity | [Conformity.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Conversation Log | [ConversationLog.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [CostumeContest.py](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
@@ -44,6 +46,7 @@ Mostly easy problems that don't require me to read a lot.
 | Fast Food Prizes | [FastFood.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | FizzBuzz | [FizzBuzz.py](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Freckles | [Freckles.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
+| Fridge| [Fridge.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [Fridge](https://open.kattis.com/problems/fridge)  |
 | Grandpa Bernie | [GrandpaBernie.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [GuessingGame.py](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Hurricane Danger! | [HurricaneDanger.py](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
@@ -76,6 +79,7 @@ Mostly easy problems that don't require me to read a lot.
 | Tarifa | [Tarifa.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tarifa.py)  | [Tarifa](https://open.kattis.com/problems/tarifa)  |
 | Tetration | [Tetration.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [Tetration](https://open.kattis.com/problems/tetration)  |
 | The Amazing Human Cannonball | [TheAmazingHumanCannonBall.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
+| The Dragon of Loowater | [Loowater.py](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [The Dragon of Loowater](https://open.kattis.com/problems/loowater)  |
 | The Last Problem | [TheLastProblem.py](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
 | Time Travelling Temperatures | [TimeTravellingTemperatures.cpp](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TimeTravellingTemperatures.cpp)  | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)  |
 | Toilet Seat | [ToiletSeat.py](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
