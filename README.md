@@ -37,6 +37,7 @@ Mostly easy problems that don't require me to read a lot.
 | Carousel Rides | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [Carousel Rides](https://open.kattis.com/problems/carousel)  |
 | CD | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
 | Cetiri | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [Cetiri](https://open.kattis.com/problems/cetiri)  |
+| Chess | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Chess.cpp)  | [Chess](https://open.kattis.com/problems/chess)  |
 | Climbing Worm | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
@@ -47,6 +48,7 @@ Mostly easy problems that don't require me to read a lot.
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
+| Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Fridge| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [Fridge](https://open.kattis.com/problems/fridge)  |
@@ -82,6 +84,7 @@ Mostly easy problems that don't require me to read a lot.
 | Tai's Formula | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TaisFormula.py)  | [Tai's formula](https://open.kattis.com/problems/taisformula)  |
 | Tarifa | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tarifa.py)  | [Tarifa](https://open.kattis.com/problems/tarifa)  |
 | Tetration | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [Tetration](https://open.kattis.com/problems/tetration)  |
+| Thanos | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Thanos.cpp)  | [Thanos](https://open.kattis.com/problems/thanos)  |
 | The Amazing Human Cannonball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Dragon of Loowater | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [The Dragon of Loowater](https://open.kattis.com/problems/loowater)  |
 | The Last Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
