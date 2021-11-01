@@ -45,6 +45,7 @@ Mostly easy problems that don't require me to read a lot.
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
+| DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
