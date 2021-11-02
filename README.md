@@ -30,7 +30,9 @@ Mostly easy problems that don't require me to read a lot.
 | Basic Programming 2 | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingTwo.cpp)  | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)  |
 | Beat The Spread! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [Beat The Spread!](https://open.kattis.com/problems/beatspread)  |
 | Beekeeper | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
+| Bela | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bela.cpp)  | [Bela](https://open.kattis.com/problems/bela)  |
 | Biased Standings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [Biased Standings](https://open.kattis.com/problems/standings)  |
+| Bijele | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bijele.cpp)  | [Bijele](https://open.kattis.com/problems/bijele)  |
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
@@ -47,6 +49,7 @@ Mostly easy problems that don't require me to read a lot.
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
+| Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
@@ -55,6 +58,7 @@ Mostly easy problems that don't require me to read a lot.
 | Fridge| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [Fridge](https://open.kattis.com/problems/fridge)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
+| Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
