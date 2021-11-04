@@ -63,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
+| Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [Line Them Up](https://open.kattis.com/problems/lineup)  |
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [Lost Lineup](https://open.kattis.com/problems/lostlineup)  |
@@ -82,6 +83,7 @@ Mostly easy problems that don't require me to read a lot.
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign)  |
 | Shopaholic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [Shopaholic](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
+| Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [Shuffling Along](https://open.kattis.com/problems/shuffling)  |
 | Stacking Cups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [Stacking Cups](https://open.kattis.com/problems/cups)  |
 | Stand on Zanzibar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [Stopwatch](https://open.kattis.com/problems/stopwatch)  |
