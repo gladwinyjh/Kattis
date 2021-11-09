@@ -59,6 +59,7 @@ Mostly easy problems that don't require me to read a lot.
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
+| Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [Hexagonal Rooks](https://open.kattis.com/problems/hexagonalrooks)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
@@ -71,6 +72,7 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
+| Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [Popular Vote](https://open.kattis.com/problems/vote)  |
 | Postal Delivery | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PostalDelivery.cpp)  | [Postal Delivery](https://open.kattis.com/problems/delivery)  |
