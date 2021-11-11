@@ -45,6 +45,7 @@ Mostly easy problems that don't require me to read a lot.
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
+| Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
