@@ -18,6 +18,7 @@ Mostly easy problems that don't require me to read a lot.
 | Another Candies | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/AnotherCandies.java)  | [Another Candies](https://open.kattis.com/problems/anothercandies)  |
 | Another Brick in the Wall | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)  |
 | Ants | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Ants.cpp)  | [Ants](https://open.kattis.com/problems/ants)  |
+| Appalling Architecture | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AppallingArchitecture.py)  | [Appalling Architecture](https://open.kattis.com/problems/appallingarchitecture)  |
 | Arctic Network | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [Arctic Network](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)  |
 | Awkward Party | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [Awkward Party](https://open.kattis.com/problems/awkwardparty)  |
@@ -44,6 +45,7 @@ Mostly easy problems that don't require me to read a lot.
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
+| Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
@@ -64,6 +66,7 @@ Mostly easy problems that don't require me to read a lot.
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
+| Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
