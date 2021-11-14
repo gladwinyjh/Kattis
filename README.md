@@ -74,6 +74,7 @@ Mostly easy problems that don't require me to read a lot.
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [Lost Lineup](https://open.kattis.com/problems/lostlineup)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
+| Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
@@ -83,6 +84,7 @@ Mostly easy problems that don't require me to read a lot.
 | Preludes | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [Preludes](https://open.kattis.com/problems/chopin)  |
 | Quadrant Selection | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [Radio Commercials](https://open.kattis.com/problems/commercials)  |
+| Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [Reachable Roads](https://open.kattis.com/problems/reachableroads)  |
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [Recount](https://open.kattis.com/problems/recount)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
