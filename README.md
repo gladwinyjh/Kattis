@@ -73,11 +73,14 @@ Mostly easy problems that don't require me to read a lot.
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
+| Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)  |
+| License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [License To Launch](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [Line Them Up](https://open.kattis.com/problems/lineup)  |
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [Lost Lineup](https://open.kattis.com/problems/lostlineup)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
+| Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [Marko](https://open.kattis.com/problems/marko)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
