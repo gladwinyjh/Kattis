@@ -1,13 +1,5 @@
 import math
 
-# def compare(item1, item2):
-#     if (get(item1) > get(item2)):
-#         return 1
-#     elif (get(item2) > get(item1)):
-#         return -1
-    
-#     elif (get(item1) == get(item2)):
-#         return (item1 > item2)
 
 t = int(input())
 
