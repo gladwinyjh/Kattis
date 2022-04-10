@@ -6,6 +6,7 @@ Mostly easy problems that don't require me to read a lot.
 | Problem  | Code | Kattis Link |
 | ---| --- | --- |
 | ABC | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ABC.py)  | [ABC](https://open.kattis.com/problems/abc)  |
+| Accounting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Accounting.py)  | [Accounting](https://open.kattis.com/problems/bokforing)  |
 | Adding Words | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
 | Above Average | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
@@ -84,6 +85,7 @@ Mostly easy problems that don't require me to read a lot.
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
+| Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
 | Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [Popular Vote](https://open.kattis.com/problems/vote)  |
