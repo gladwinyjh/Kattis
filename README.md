@@ -6,11 +6,12 @@ Mostly easy problems that don't require me to read a lot.
 | Problem  | Code | Kattis Link |
 | ---| --- | --- |
 | ABC | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ABC.py)  | [ABC](https://open.kattis.com/problems/abc)  |
+| Above Average | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Accounting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Accounting.py)  | [Accounting](https://open.kattis.com/problems/bokforing)  |
 | Adding Words | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
-| Above Average | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AboveAverage.py)  | [Above Average](https://open.kattis.com/problems/aboveaverage)  |
 | Air Conditioned Minions | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AirConditionedMinions.py)  | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)  |
+| Akcija | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Akcija.py)  | [Akcija](https://open.kattis.com/problems/akcija)  |
 | Alice in the Digital World | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AliceDigital.cpp)  | [Alice in the Digital World](https://open.kattis.com/problems/alicedigital)  |
 | All Just A Dream | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AllJustADream.cpp)  | [All Just A Dream](https://open.kattis.com/problems/dream)  |
 | Alphabet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [Alphabet](https://open.kattis.com/problems/alphabet)  |
@@ -83,6 +84,7 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [Marko](https://open.kattis.com/problems/marko)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
+| Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [Moscow Dream](https://open.kattis.com/problems/moscowdream)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
@@ -132,6 +134,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unique Snowflakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [Unique Snowflakes](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
+| WERTYU | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WERTYU.py)  | [WERTYU](https://open.kattis.com/problems/wertyu)  |
 | Where's My Internet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
 | Wood Cutting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WoodCutting.py)  | [Wood Cutting](https://open.kattis.com/problems/woodcutting)  |
 | Yin and Yang Stones | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)  |
