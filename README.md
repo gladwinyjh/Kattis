@@ -76,7 +76,7 @@ Mostly easy problems that don't require me to read a lot.
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
-| Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardInConcert.py)  | [Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)  |
+| Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [License To Launch](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
