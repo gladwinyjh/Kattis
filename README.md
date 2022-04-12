@@ -43,13 +43,14 @@ Mostly easy problems that don't require me to read a lot.
 | Carousel Rides | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [Carousel Rides](https://open.kattis.com/problems/carousel)  |
 | CD | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [CD](https://open.kattis.com/problems/cd)  |
 | Cetiri | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [Cetiri](https://open.kattis.com/problems/cetiri)  |
+| Charting Progress | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ChartingProgress.py)  | [Charting Progress](https://open.kattis.com/problems/chartingprogress)  |
 | Chess | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Chess.cpp)  | [Chess](https://open.kattis.com/problems/chess)  |
 | Climbing Worm | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [Climbing Worm](https://open.kattis.com/problems/climbingworm)  |
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite)  |
-| Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp)  | [Conformity](https://open.kattis.com/problems/conformity)  |
+| Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
@@ -75,6 +76,7 @@ Mostly easy problems that don't require me to read a lot.
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
+| Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardInConcert.py)  | [Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [License To Launch](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
