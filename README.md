@@ -145,3 +145,4 @@ Mostly easy problems that don't require me to read a lot.
 | Yoda  | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [Yoda](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [Zamka](https://open.kattis.com/problems/zamka)  |
 | Zyxab | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Zyxab.java)  | [Zyxab](https://open.kattis.com/problems/zyxab)  |
+| 2048 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/2048.py)  | [2048](https://open.kattis.com/problems/2048)  |
