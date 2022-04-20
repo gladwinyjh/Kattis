@@ -49,6 +49,7 @@ Mostly easy problems that don't require me to read a lot.
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
+| Combination Lock | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CombinationLock.py)  | [Combination Lock](https://open.kattis.com/problems/combinationlock)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
@@ -92,6 +93,7 @@ Mostly easy problems that don't require me to read a lot.
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
+| Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)  |
 | Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [Popular Vote](https://open.kattis.com/problems/vote)  |
@@ -107,7 +109,8 @@ Mostly easy problems that don't require me to read a lot.
 | Shopaholic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [Shopaholic](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [Shuffling Along](https://open.kattis.com/problems/shuffling)  |
-| Stacking Cups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [Stacking Cups](https://open.kattis.com/problems/cups)  |
+| Sok | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Sok.py)  | [Sok](https://open.kattis.com/problems/sok)  |
+| Stacking Cups | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [Stacking Cups](https://open.kattis.com/problems/cups)  |
 | Stand on Zanzibar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [Stopwatch](https://open.kattis.com/problems/stopwatch)  |
 | Symmetric Order | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SymmetricOrder.py)  | [Symmetric Order](https://open.kattis.com/problems/symmetricorder)  |
