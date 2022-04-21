@@ -72,6 +72,7 @@ Mostly easy problems that don't require me to read a lot.
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [Hexagonal Rooks](https://open.kattis.com/problems/hexagonalrooks)  |
+| Howl | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Howl.py)  | [Howl](https://open.kattis.com/problems/howl)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
@@ -106,6 +107,7 @@ Mostly easy problems that don't require me to read a lot.
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign)  |
+| Shattered Cake | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShatteredCake.py)  | [Shattered Cake](https://open.kattis.com/problems/shatteredcake)  |
 | Shopaholic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [Shopaholic](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [Shuffling Along](https://open.kattis.com/problems/shuffling)  |
