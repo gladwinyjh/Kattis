@@ -56,6 +56,7 @@ Mostly easy problems that don't require me to read a lot.
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
+| Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
@@ -146,6 +147,7 @@ Mostly easy problems that don't require me to read a lot.
 | WERTYU | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WERTYU.py)  | [WERTYU](https://open.kattis.com/problems/wertyu)  |
 | Where's My Internet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
 | Wood Cutting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WoodCutting.py)  | [Wood Cutting](https://open.kattis.com/problems/woodcutting)  |
+| Workout for a Dumbbell | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Workout.py)  | [Workout for a Dumbbell](https://open.kattis.com/problems/workout)  |
 | Yin and Yang Stones | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)  |
 | Yoda  | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [Yoda](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [Zamka](https://open.kattis.com/problems/zamka)  |
