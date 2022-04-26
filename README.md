@@ -56,6 +56,7 @@ Mostly easy problems that don't require me to read a lot.
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
+| Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [Crashing Robots](https://open.kattis.com/problems/crashingrobots)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
