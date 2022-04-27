@@ -31,6 +31,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bard | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [Bard](https://open.kattis.com/problems/bard)  |
 | Basic Programming 1 | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingOne.cpp)  | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)  |
 | Basic Programming 2 | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingTwo.cpp)  | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2)  |
+| Battleship | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Battleship.py)  | [Battleship](https://open.kattis.com/problems/battleship)  |
 | Beat The Spread! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [Beat The Spread!](https://open.kattis.com/problems/beatspread)  |
 | Beekeeper | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [Beekeeper](https://open.kattis.com/problems/beekeeper)  |
 | Bela | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bela.cpp)  | [Bela](https://open.kattis.com/problems/bela)  |
@@ -69,6 +70,7 @@ Mostly easy problems that don't require me to read a lot.
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [Flow Shop](https://open.kattis.com/problems/flowshop)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Fridge| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [Fridge](https://open.kattis.com/problems/fridge)  |
+| Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [Game Rank](https://open.kattis.com/problems/gamerank)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [Good Morning!](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
