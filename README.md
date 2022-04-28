@@ -59,6 +59,7 @@ Mostly easy problems that don't require me to read a lot.
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [Crashing Robots](https://open.kattis.com/problems/crashingrobots)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
+| Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [Disastrous Downtime](https://open.kattis.com/problems/downtime)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
@@ -92,6 +93,7 @@ Mostly easy problems that don't require me to read a lot.
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [Marko](https://open.kattis.com/problems/marko)  |
+| Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [Match Game](https://open.kattis.com/problems/matchgame)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [Moscow Dream](https://open.kattis.com/problems/moscowdream)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [Nikola](https://open.kattis.com/problems/nikola)  |
@@ -108,6 +110,7 @@ Mostly easy problems that don't require me to read a lot.
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [Radio Commercials](https://open.kattis.com/problems/commercials)  |
 | Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [Reachable Roads](https://open.kattis.com/problems/reachableroads)  |
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [Recount](https://open.kattis.com/problems/recount)  |
+| Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [Rock-Paper-Scissors Tournament](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign)  |
