@@ -66,6 +66,7 @@ Mostly easy problems that don't require me to read a lot.
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
+| Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [Ferry Loading III](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [Flow Shop](https://open.kattis.com/problems/flowshop)  |
