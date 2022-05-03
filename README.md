@@ -52,6 +52,7 @@ Mostly easy problems that don't require me to read a lot.
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
 | Combination Lock | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CombinationLock.py)  | [Combination Lock](https://open.kattis.com/problems/combinationlock)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite)  |
+| Competitive Arcade Basketball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompetitiveArcadeBasketball.py)  | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
@@ -95,8 +96,10 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [Marko](https://open.kattis.com/problems/marko)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [Match Game](https://open.kattis.com/problems/matchgame)  |
+| Mjehuric | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mjehuric.py)  | [Mjehuric](https://open.kattis.com/problems/mjehuric)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [Money Matters](https://open.kattis.com/problems/moneymatters)  |
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [Moscow Dream](https://open.kattis.com/problems/moscowdream)  |
+| Musical Trees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MusicalTrees.py)  | [Musical Trees](https://open.kattis.com/problems/musicaltrees)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [Nikola](https://open.kattis.com/problems/nikola)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
