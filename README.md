@@ -10,6 +10,7 @@ Mostly easy problems that don't require me to read a lot.
 | Accounting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Accounting.py)  | [Accounting](https://open.kattis.com/problems/bokforing)  |
 | Adding Words | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AddingWords.py)  | [Adding Words](https://open.kattis.com/problems/addingwords)  |
 | A Different Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ADifferentProblem.py)  | [A Different Problem](https://open.kattis.com/problems/different)  |
+| A Feast For Cats | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AFeastForCats.py)  | [A Feast For Cats](https://open.kattis.com/problems/cats)  |
 | Air Conditioned Minions | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AirConditionedMinions.py)  | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)  |
 | Akcija | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Akcija.py)  | [Akcija](https://open.kattis.com/problems/akcija)  |
 | Alice in the Digital World | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AliceDigital.cpp)  | [Alice in the Digital World](https://open.kattis.com/problems/alicedigital)  |
@@ -92,6 +93,7 @@ Mostly easy problems that don't require me to read a lot.
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [Line Them Up](https://open.kattis.com/problems/lineup)  |
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [Lost Lineup](https://open.kattis.com/problems/lostlineup)  |
+| Lost Map | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LostMap.py)  | [Lost Map](https://open.kattis.com/problems/lostmap)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [Magical Cows](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [Marko](https://open.kattis.com/problems/marko)  |
