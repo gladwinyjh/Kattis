@@ -77,6 +77,7 @@ Mostly easy problems that don't require me to read a lot.
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [Game Rank](https://open.kattis.com/problems/gamerank)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [Good Morning!](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
+| Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [Grid](https://open.kattis.com/problems/grid)  |
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [Hexagonal Rooks](https://open.kattis.com/problems/hexagonalrooks)  |
@@ -158,6 +159,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
 | WERTYU | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WERTYU.py)  | [WERTYU](https://open.kattis.com/problems/wertyu)  |
+| Wet Tiles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WetTiles.py)  | [Wet Tiles](https://open.kattis.com/problems/wettiles)  |
 | Where's My Internet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
 | Wood Cutting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WoodCutting.py)  | [Wood Cutting](https://open.kattis.com/problems/woodcutting)  |
 | Workout for a Dumbbell | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Workout.py)  | [Workout for a Dumbbell](https://open.kattis.com/problems/workout)  |
