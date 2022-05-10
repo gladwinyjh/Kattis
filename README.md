@@ -39,6 +39,7 @@ Mostly easy problems that don't require me to read a lot.
 | Biased Standings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [Biased Standings](https://open.kattis.com/problems/standings)  |
 | Bijele | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bijele.cpp)  | [Bijele](https://open.kattis.com/problems/bijele)  |
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)  |
+| Brexit | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Brexit.py)  | [Brexit](https://open.kattis.com/problems/brexit)  |
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [Bungee Jumping](https://open.kattis.com/problems/bungeejumping)  |
 | Button Bashing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ButtonBashing.py)  | [Button Bashing](https://open.kattis.com/problems/buttonbashing)  |
@@ -62,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [Crashing Robots](https://open.kattis.com/problems/crashingrobots)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [Disastrous Downtime](https://open.kattis.com/problems/downtime)  |
+| Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [Divide by 100...](https://open.kattis.com/problems/divideby100)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
@@ -140,6 +142,7 @@ Mostly easy problems that don't require me to read a lot.
 | The Amazing Human Cannonball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Dragon of Loowater | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [The Dragon of Loowater](https://open.kattis.com/problems/loowater)  |
 | The Last Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
+| Through the Grapevine | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grapevine.py)  | [Through the Grapevine](https://open.kattis.com/problems/grapevine)  |
 | Tic Tac Toe (2) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TicTacToe2.py)  | [Tic Tac Toe](https://open.kattis.com/problems/tictactoe2)  |
 | Time Travelling Temperatures | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TimeTravellingTemperatures.cpp)  | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)  |
 | Toilet Seat | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [Toilet Seat](https://open.kattis.com/problems/toilet)  |
