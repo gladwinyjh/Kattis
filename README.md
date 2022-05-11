@@ -74,6 +74,7 @@ Mostly easy problems that don't require me to read a lot.
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
 | Fire | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire.py)  | [Fire](https://open.kattis.com/problems/fire2)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
+| Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [Flipping Patties](https://open.kattis.com/problems/flippingpatties)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [Flow Shop](https://open.kattis.com/problems/flowshop)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [Fountain](https://open.kattis.com/problems/fontan)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
@@ -85,10 +86,12 @@ Mostly easy problems that don't require me to read a lot.
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [Hexagonal Rooks](https://open.kattis.com/problems/hexagonalrooks)  |
+| Hot Hike | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HotHike.py)  | [Hot Hike](https://open.kattis.com/problems/hothike)  |
 | Howl | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Howl.py)  | [Howl](https://open.kattis.com/problems/howl)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
+| Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [Inverted Deck](https://open.kattis.com/problems/inverteddeck)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
