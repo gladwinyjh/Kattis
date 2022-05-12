@@ -77,7 +77,7 @@ Mostly easy problems that don't require me to read a lot.
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [Flipping Patties](https://open.kattis.com/problems/flippingpatties)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [Flow Shop](https://open.kattis.com/problems/flowshop)  |
-| Forced Choices | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForcedChoices.py)  | [Forced Choices](https://open.kattis.com/problems/forcedchoices)  |
+| Forced Choice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForcedChoice.py)  | [Forced Choice](https://open.kattis.com/problems/forcedchoice)  |
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [Forests](https://open.kattis.com/problems/forests)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [Fountain](https://open.kattis.com/problems/fontan)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
