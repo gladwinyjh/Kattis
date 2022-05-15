@@ -95,11 +95,13 @@ Mostly easy problems that don't require me to read a lot.
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [Image Decoding](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [Integer Lists](https://open.kattis.com/problems/integerlists)  |
 | Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [Inverted Deck](https://open.kattis.com/problems/inverteddeck)  |
+| Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [Is It Halloween](https://open.kattis.com/problems/isithalloween)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [Island Hopping](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [Judging Troubles](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [Karte](https://open.kattis.com/problems/karte)  |
 | Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [Keyboards in Concert](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)  |
+| Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [License To Launch](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [Liga](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [Line Them Up](https://open.kattis.com/problems/lineup)  |
@@ -114,6 +116,7 @@ Mostly easy problems that don't require me to read a lot.
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [Moscow Dream](https://open.kattis.com/problems/moscowdream)  |
 | Musical Trees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MusicalTrees.py)  | [Musical Trees](https://open.kattis.com/problems/musicaltrees)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [Nikola](https://open.kattis.com/problems/nikola)  |
+| One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
@@ -134,6 +137,7 @@ Mostly easy problems that don't require me to read a lot.
 | Shattered Cake | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShatteredCake.py)  | [Shattered Cake](https://open.kattis.com/problems/shatteredcake)  |
 | Shopaholic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [Shopaholic](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
+| Short Sell | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortSell.py)  | [Short Sell](https://open.kattis.com/problems/shortsell)  |
 | Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [Shuffling Along](https://open.kattis.com/problems/shuffling)  |
 | Sok | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Sok.py)  | [Sok](https://open.kattis.com/problems/sok)  |
 | Stacking Cups | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [Stacking Cups](https://open.kattis.com/problems/cups)  |
