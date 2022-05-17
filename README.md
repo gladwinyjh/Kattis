@@ -53,6 +53,7 @@ Mostly easy problems that don't require me to read a lot.
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [Code Cleanups](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [Cold-puter Science](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [Coloring Socks](https://open.kattis.com/problems/color)  |
+| Cow Crane | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CowCrane.py)  | [Cow Crane](https://open.kattis.com/problems/cowcrane)  |
 | Combination Lock | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CombinationLock.py)  | [Combination Lock](https://open.kattis.com/problems/combinationlock)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite)  |
 | Competitive Arcade Basketball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompetitiveArcadeBasketball.py)  | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)  |
@@ -67,6 +68,7 @@ Mostly easy problems that don't require me to read a lot.
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [Divide by 100...](https://open.kattis.com/problems/divideby100)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [DVDs](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [Early Winter](https://open.kattis.com/problems/earlywinter)  |
+| Election 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Election2.py)  | [Election 2](https://open.kattis.com/problems/election2)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
