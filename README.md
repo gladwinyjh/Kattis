@@ -123,6 +123,7 @@ Mostly easy problems that don't require me to read a lot.
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
 | Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)  |
+| Pharmacy | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Pharmacy.py)  | [Pharmacy](https://open.kattis.com/problems/pharmacy)  |
 | Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [Popular Vote](https://open.kattis.com/problems/vote)  |
