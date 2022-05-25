@@ -76,6 +76,7 @@ Mostly easy problems that don't require me to read a lot.
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [Ferry Loading III](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
 | Fire | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire.py)  | [Fire](https://open.kattis.com/problems/fire2)  |
+| Firefly | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Firefly.py)  | [Firefly](https://open.kattis.com/problems/firefly)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)  |
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [Flipping Patties](https://open.kattis.com/problems/flippingpatties)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [Flow Shop](https://open.kattis.com/problems/flowshop)  |
