@@ -63,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [Crashing Robots](https://open.kattis.com/problems/crashingrobots)  |
+| Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [Dice Game](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [Disastrous Downtime](https://open.kattis.com/problems/downtime)  |
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [Divide by 100...](https://open.kattis.com/problems/divideby100)  |
@@ -130,10 +131,12 @@ Mostly easy problems that don't require me to read a lot.
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [Popular Vote](https://open.kattis.com/problems/vote)  |
 | Postal Delivery | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PostalDelivery.cpp)  | [Postal Delivery](https://open.kattis.com/problems/delivery)  |
 | Preludes | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [Preludes](https://open.kattis.com/problems/chopin)  |
+| Prozor | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Prozor.py)  | [Prozor](https://open.kattis.com/problems/prozor)  |
 | Quadrant Selection | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [Quadrant Selection](https://open.kattis.com/problems/quadrant)  |
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [Radio Commercials](https://open.kattis.com/problems/commercials)  |
 | Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [Reachable Roads](https://open.kattis.com/problems/reachableroads)  |
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [Recount](https://open.kattis.com/problems/recount)  |
+| Riječi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rijeci.py)  | [Riječi](https://open.kattis.com/problems/rijeci)  |
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [Rock-Paper-Scissors Tournament](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [Roll Call](https://open.kattis.com/problems/rollcall)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [Score!](https://open.kattis.com/problems/score)  |
