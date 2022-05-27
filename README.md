@@ -73,6 +73,7 @@ Mostly easy problems that don't require me to read a lot.
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
+| Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [Exam](https://open.kattis.com/problems/exam)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [Ferry Loading III](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
@@ -125,6 +126,7 @@ Mostly easy problems that don't require me to read a lot.
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
 | Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)  |
+| Permutation Descent Counts | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PDC.py)  | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent)  |
 | Pharmacy | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Pharmacy.py)  | [Pharmacy](https://open.kattis.com/problems/pharmacy)  |
 | Pig Latin | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PigLatin.py)  | [Pig Latin](https://open.kattis.com/problems/piglatin)  |
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [Planina](https://open.kattis.com/problems/planina)  |
