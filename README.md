@@ -63,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [Crashing Robots](https://open.kattis.com/problems/crashingrobots)  |
+| Delimiter Soup | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DelimiterSoup.py)  | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)  |
 | Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [Dice Game](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [Digital Display](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [Disastrous Downtime](https://open.kattis.com/problems/downtime)  |
@@ -171,6 +172,7 @@ Mostly easy problems that don't require me to read a lot.
 | Train Boarding | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TrainBoarding.cpp)  | [Train Boarding](https://open.kattis.com/problems/trainboarding)  |
 | Train Passengers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TrainPassengers.py)  | [Train Passengers](https://open.kattis.com/problems/trainpassengers)  |
 | Transit Woes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [Transit Woes](https://open.kattis.com/problems/transitwoes)  |
+| Tree Insertion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TreeInsertion.py)  | [Tree Insertion](https://open.kattis.com/problems/insert)  |
 | Tri | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [Tri](https://open.kattis.com/problems/tri)  |
 | Trik | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [Trik](https://open.kattis.com/problems/trik)  |
 | Triple Texting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TripleTexting.py)  | [Triple Texting](https://open.kattis.com/problems/tripletexting)  |
