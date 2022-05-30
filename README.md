@@ -162,6 +162,7 @@ Mostly easy problems that don't require me to read a lot.
 | The Amazing Human Cannonball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)  |
 | The Dragon of Loowater | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [The Dragon of Loowater](https://open.kattis.com/problems/loowater)  |
 | The Last Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [The Last Problem](https://open.kattis.com/problems/thelastproblem)  |
+| The Mailbox Manufacturers Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mailbox.py)  | [The Mailbox Manufacturers Problem](https://open.kattis.com/problems/mailbox)  |
 | Through the Grapevine | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grapevine.py)  | [Through the Grapevine](https://open.kattis.com/problems/grapevine)  |
 | Tic Tac Toe (2) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TicTacToe2.py)  | [Tic Tac Toe](https://open.kattis.com/problems/tictactoe2)  |
 | Time Travelling Temperatures | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TimeTravellingTemperatures.cpp)  | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)  |
