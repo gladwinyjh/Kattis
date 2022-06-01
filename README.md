@@ -185,6 +185,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unique Snowflakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [Unique Snowflakes](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [Warehouse](https://open.kattis.com/problems/warehouse)  |
+| Welcome to Code Jam (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WelcomeEasy.py)  | [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy)  |
 | WERTYU | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WERTYU.py)  | [WERTYU](https://open.kattis.com/problems/wertyu)  |
 | Wet Tiles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WetTiles.py)  | [Wet Tiles](https://open.kattis.com/problems/wettiles)  |
 | Where's My Internet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WheresMyInternet.py)  | [Where's My Internet](https://open.kattis.com/problems/wheresmyinternet)  |
