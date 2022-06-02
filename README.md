@@ -73,8 +73,10 @@ Mostly easy problems that don't require me to read a lot.
 | Election 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Election2.py)  | [Election 2](https://open.kattis.com/problems/election2)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)  |
+| Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [Equal Sums (Easy)](https://open.kattis.com/problems/equalsumseasy)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [Even Up Solitaire](https://open.kattis.com/problems/evenup)  |
 | Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [Exam](https://open.kattis.com/problems/exam)  |
+| Expected Earnings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ExpectedEarnings.py)  | [Expected Earnings](https://open.kattis.com/problems/expectedearnings)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [Fast Food Prizes](https://open.kattis.com/problems/fastfood)  |
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [Ferry Loading III](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [Field Trip](https://open.kattis.com/problems/fieldtrip)  |
@@ -125,6 +127,7 @@ Mostly easy problems that don't require me to read a lot.
 | One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [Parking](https://open.kattis.com/problems/parking)  |
+| Password Hacking | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PasswordHacking.py)  | [Password Hacking](https://open.kattis.com/problems/password)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [Patuljci](https://open.kattis.com/problems/patuljci)  |
 | Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)  |
 | Permutation Descent Counts | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PDC.py)  | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent)  |
