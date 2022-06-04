@@ -59,6 +59,7 @@ Mostly easy problems that don't require me to read a lot.
 | Competitive Arcade Basketball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompetitiveArcadeBasketball.py)  | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [Conformity](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [Connect the Dots](https://open.kattis.com/problems/connectthedots)  |
+| Conquest Campaign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConquestCampaign.py)  | [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [Conversation Log](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [Costume Contest](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [Cracking The Safe](https://open.kattis.com/problems/safe)  |
@@ -97,6 +98,7 @@ Mostly easy problems that don't require me to read a lot.
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [Guessing Game](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [Help Me With The Game](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [Hexagonal Rooks](https://open.kattis.com/problems/hexagonalrooks)  |
+| Hiding Places | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HidingPlaces.py)  | [Hiding Places](https://open.kattis.com/problems/hidingplaces)  |
 | Hot Hike | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HotHike.py)  | [Hot Hike](https://open.kattis.com/problems/hothike)  |
 | Howl | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Howl.py)  | [Howl](https://open.kattis.com/problems/howl)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [Hurricane Danger!](https://open.kattis.com/problems/hurricanedanger)  |
