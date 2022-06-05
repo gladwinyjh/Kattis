@@ -92,6 +92,7 @@ Mostly easy problems that don't require me to read a lot.
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [Freckles](https://open.kattis.com/problems/freckles)  |
 | Fridge| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [Fridge](https://open.kattis.com/problems/fridge)  |
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [Game Rank](https://open.kattis.com/problems/gamerank)  |
+| George | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/George.py)  | [George](https://open.kattis.com/problems/george)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [Good Morning!](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie)  |
 | Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [Grid](https://open.kattis.com/problems/grid)  |
