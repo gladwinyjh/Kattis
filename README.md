@@ -155,6 +155,8 @@ Mostly easy problems that don't require me to read a lot.
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [Shopping List](https://open.kattis.com/problems/shoppinglist)  |
 | Short Sell | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortSell.py)  | [Short Sell](https://open.kattis.com/problems/shortsell)  |
 | Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [Shuffling Along](https://open.kattis.com/problems/shuffling)  |
+| Single source shortest path, negative weights | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath3.py)  | [Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)  |
+| Single source shortest path, non-negative weights | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath1.py)  | [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)  |
 | Sok | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Sok.py)  | [Sok](https://open.kattis.com/problems/sok)  |
 | Stacking Cups | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [Stacking Cups](https://open.kattis.com/problems/cups)  |
 | Stand on Zanzibar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)  |
