@@ -38,7 +38,7 @@ def main():
         n, m, q, s = map(int, stdin.readline().split())
 
         if n == 0:
-            # EOF since n cannot be <= 1
+            # EOF since n cannot be < 1
             return
 
         adjList = [[]*n for _ in range(n)]
