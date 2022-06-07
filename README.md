@@ -57,7 +57,7 @@ Mostly easy problems that don't require me to read a lot.
 | Combination Lock | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CombinationLock.py)  | [:link:](https://open.kattis.com/problems/combinationlock)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [:link:](https://open.kattis.com/problems/communicationssatellite)  |
 | Competitive Arcade Basketball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompetitiveArcadeBasketball.py)  | [:link:](https://open.kattis.com/problems/competitivearcadebasketball)  |
-| Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [:link:](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [Conformity](https://open.kattis.com/problems/conformity)  |
+| Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [:link:](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [:link:](https://open.kattis.com/problems/connectthedots)  |
 | Conquest Campaign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConquestCampaign.py)  | [:link:](https://open.kattis.com/problems/conquestcampaign)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [:link:](https://open.kattis.com/problems/conversationlog)  |
