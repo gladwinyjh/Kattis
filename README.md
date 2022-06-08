@@ -64,6 +64,7 @@ Mostly easy problems that don't require me to read a lot.
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [:link:](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [:link:](https://open.kattis.com/problems/safe)  |
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [:link:](https://open.kattis.com/problems/crashingrobots)  |
+| Cross Country | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrossCountry.py)  | [:link:](https://open.kattis.com/problems/crosscountry)  |
 | Delimiter Soup | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DelimiterSoup.py)  | [:link:](https://open.kattis.com/problems/delimitersoup)  |
 | Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [:link:](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
@@ -100,6 +101,7 @@ Mostly easy problems that don't require me to read a lot.
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [:link:](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [:link:](https://open.kattis.com/problems/hexagonalrooks)  |
 | Hiding Places | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HidingPlaces.py)  | [:link:](https://open.kattis.com/problems/hidingplaces)  |
+| Horror List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HorrorList.py)  | [:link:](https://open.kattis.com/problems/horror)  |
 | Hot Hike | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HotHike.py)  | [:link:](https://open.kattis.com/problems/hothike)  |
 | Howl | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Howl.py)  | [:link:](https://open.kattis.com/problems/howl)  |
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [:link:](https://open.kattis.com/problems/hurricanedanger)  |
@@ -157,7 +159,9 @@ Mostly easy problems that don't require me to read a lot.
 | Shuffling Along | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ShufflingAlong.cpp)  | [:link:](https://open.kattis.com/problems/shuffling)  |
 | Single source shortest path, negative weights | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath3.py)  | [:link:](https://open.kattis.com/problems/shortestpath3)  |
 | Single source shortest path, non-negative weights | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath1.py)  | [:link:](https://open.kattis.com/problems/shortestpath1)  |
+| Single source shortest path, safe path | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath4.py)  | [:link:](https://open.kattis.com/problems/shortestpath4)  |
 | Single source shortest path, time table | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath2.py)  | [:link:](https://open.kattis.com/problems/shortestpath2)  |
+| Slikar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Slikar.py)  | [:link:](https://open.kattis.com/problems/slikar)  |
 | Sok | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Sok.py)  | [:link:](https://open.kattis.com/problems/sok)  |
 | Stacking Cups | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [:link:](https://open.kattis.com/problems/cups)  |
 | Stand on Zanzibar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [:link:](https://open.kattis.com/problems/zanzibar)  |
