@@ -70,6 +70,7 @@ Mostly easy problems that don't require me to read a lot.
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [:link:](https://open.kattis.com/problems/downtime)  |
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [:link:](https://open.kattis.com/problems/divideby100)  |
+| Dungeon | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dungeon.py)  | [:link:](https://open.kattis.com/problems/dungeon)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [:link:](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [:link:](https://open.kattis.com/problems/earlywinter)  |
 | Election 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Election2.py)  | [:link:](https://open.kattis.com/problems/election2)  |
@@ -142,6 +143,7 @@ Mostly easy problems that don't require me to read a lot.
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [:link:](https://open.kattis.com/problems/vote)  |
 | Postal Delivery | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PostalDelivery.cpp)  | [:link:](https://open.kattis.com/problems/delivery)  |
 | Preludes | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [:link:](https://open.kattis.com/problems/chopin)  |
+| Prime Spiral | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Spiral.py)  | [:link:](https://open.kattis.com/problems/spiral)  |
 | Prozor | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Prozor.py)  | [:link:](https://open.kattis.com/problems/prozor)  |
 | Quadrant Selection | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [:link:](https://open.kattis.com/problems/quadrant)  |
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [:link:](https://open.kattis.com/problems/commercials)  |
@@ -194,6 +196,7 @@ Mostly easy problems that don't require me to read a lot.
 | Vaccine Efficacy | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccineEfficacy.cpp)  | [:link:](https://open.kattis.com/problems/vaccineefficacy)  |
 | Variable Arithmetic | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VariableArithmetic.cpp)  | [:link:](https://open.kattis.com/problems/variablearithmetic)  |
 | Veci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [:link:](https://open.kattis.com/problems/veci)  |
+| VisuAlgo Online Quiz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VisuAlgo.py)  | [:link:](https://open.kattis.com/problems/visualgo)  |
 | Volim | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [:link:](https://open.kattis.com/problems/volim)  |
 | Unique Snowflakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [:link:](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [:link:](https://open.kattis.com/problems/unlockpattern)  |
