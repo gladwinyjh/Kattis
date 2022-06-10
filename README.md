@@ -28,6 +28,7 @@ Mostly easy problems that don't require me to read a lot.
 | Babelfish | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Babelfish.py)  | [:link:](https://open.kattis.com/problems/babelfish)  |
 | Baby Bites | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BabyBites.cpp)  | [:link:](https://open.kattis.com/problems/babybites)  |
 | Backspace | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [:link:](https://open.kattis.com/problems/backspace)  |
+| Bacon, Eggs, and Spam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BaconEggsAndSpam.py)  | [:link:](https://open.kattis.com/problems/baconeggsandspam)  |
 | Baloni | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [:link:](https://open.kattis.com/problems/baloni)  |
 | Bard | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Bard.java)  | [:link:](https://open.kattis.com/problems/bard)  |
 | Basic Programming 1 | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingOne.cpp)  | [:link:](https://open.kattis.com/problems/basicprogramming1)  |
@@ -57,6 +58,7 @@ Mostly easy problems that don't require me to read a lot.
 | Combination Lock | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CombinationLock.py)  | [:link:](https://open.kattis.com/problems/combinationlock)  |
 | Communications Satellite | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CommunicationsSatellite.py)  | [:link:](https://open.kattis.com/problems/communicationssatellite)  |
 | Competitive Arcade Basketball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompetitiveArcadeBasketball.py)  | [:link:](https://open.kattis.com/problems/competitivearcadebasketball)  |
+| Compound Words | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CompoundWords.py)  | [:link:](https://open.kattis.com/problems/compoundwords)  |
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [:link:](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [:link:](https://open.kattis.com/problems/connectthedots)  |
 | Conquest Campaign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConquestCampaign.py)  | [:link:](https://open.kattis.com/problems/conquestcampaign)  |
@@ -125,6 +127,7 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [:link:](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [:link:](https://open.kattis.com/problems/marko)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [:link:](https://open.kattis.com/problems/matchgame)  |
+| Missing Gnomes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MissingGnomes.py)  | [:link:](https://open.kattis.com/problems/missinggnomes)  |
 | Mjehuric | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mjehuric.py)  | [:link:](https://open.kattis.com/problems/mjehuric)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [:link:](https://open.kattis.com/problems/moneymatters)  |
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [:link:](https://open.kattis.com/problems/moscowdream)  |
@@ -198,6 +201,7 @@ Mostly easy problems that don't require me to read a lot.
 | Veci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [:link:](https://open.kattis.com/problems/veci)  |
 | VisuAlgo Online Quiz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VisuAlgo.py)  | [:link:](https://open.kattis.com/problems/visualgo)  |
 | Volim | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [:link:](https://open.kattis.com/problems/volim)  |
+| Un-bear-able Zoo | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zoo.py)  | [:link:](https://open.kattis.com/problems/zoo)  |
 | Unique Snowflakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [:link:](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [:link:](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [:link:](https://open.kattis.com/problems/warehouse)  |
