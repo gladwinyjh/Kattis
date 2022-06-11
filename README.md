@@ -100,6 +100,7 @@ Mostly easy problems that don't require me to read a lot.
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [:link:](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [:link:](https://open.kattis.com/problems/grandpabernie)  |
 | Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [:link:](https://open.kattis.com/problems/grid)  |
+| Gruesome Cave | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GruesomeCave.py)  | [:link:](https://open.kattis.com/problems/gruesomecave)  |
 | Guessing Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GuessingGame.py)  | [:link:](https://open.kattis.com/problems/guessinggame)  |
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [:link:](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [:link:](https://open.kattis.com/problems/hexagonalrooks)  |
