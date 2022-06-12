@@ -133,6 +133,7 @@ Mostly easy problems that don't require me to read a lot.
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [:link:](https://open.kattis.com/problems/moneymatters)  |
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [:link:](https://open.kattis.com/problems/moscowdream)  |
 | Musical Trees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MusicalTrees.py)  | [:link:](https://open.kattis.com/problems/musicaltrees)  |
+| Natjecanje | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Natjecanje.py)  | [:link:](https://open.kattis.com/problems/natjecanje)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [:link:](https://open.kattis.com/problems/nikola)  |
 | One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [:link:](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [:link:](https://open.kattis.com/problems/averageshard)  |
