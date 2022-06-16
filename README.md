@@ -86,6 +86,7 @@ Mostly easy problems that don't require me to read a lot.
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [:link:](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [:link:](https://open.kattis.com/problems/fieldtrip)  |
 | Fire | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire.py)  | [:link:](https://open.kattis.com/problems/fire2)  |
+| Fire! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire3.py)  | [:link:](https://open.kattis.com/problems/fire3)  |
 | Firefly | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Firefly.py)  | [:link:](https://open.kattis.com/problems/firefly)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [:link:](https://open.kattis.com/problems/fizzbuzz)  |
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [:link:](https://open.kattis.com/problems/flippingpatties)  |
@@ -118,6 +119,7 @@ Mostly easy problems that don't require me to read a lot.
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [:link:](https://open.kattis.com/problems/karte)  |
 | Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
+| Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [:link:](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [:link:](https://open.kattis.com/problems/liga)  |
