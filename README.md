@@ -27,6 +27,7 @@ Mostly easy problems that don't require me to read a lot.
 | Awkward Party | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [:link:](https://open.kattis.com/problems/awkwardparty)  |
 | Babelfish | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Babelfish.py)  | [:link:](https://open.kattis.com/problems/babelfish)  |
 | Baby Bites | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BabyBites.cpp)  | [:link:](https://open.kattis.com/problems/babybites)  |
+| Backpack Buddies | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BackpackBuddies.py)  | [:link:](https://open.kattis.com/problems/backpackbuddies)  |
 | Backspace | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Backspace.java)  | [:link:](https://open.kattis.com/problems/backspace)  |
 | Bacon, Eggs, and Spam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BaconEggsAndSpam.py)  | [:link:](https://open.kattis.com/problems/baconeggsandspam)  |
 | Baloni | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Baloni.py)  | [:link:](https://open.kattis.com/problems/baloni)  |
@@ -112,6 +113,7 @@ Mostly easy problems that don't require me to read a lot.
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [:link:](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [:link:](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [:link:](https://open.kattis.com/problems/integerlists)  |
+| Invasion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Invasion.py)  | [:link:](https://open.kattis.com/problems/invasion)  |
 | Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [:link:](https://open.kattis.com/problems/inverteddeck)  |
 | Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [:link:](https://open.kattis.com/problems/isithalloween)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
