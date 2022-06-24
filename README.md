@@ -77,6 +77,7 @@ Mostly easy problems that don't require me to read a lot.
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [:link:](https://open.kattis.com/problems/dvds)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [:link:](https://open.kattis.com/problems/earlywinter)  |
 | Election 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Election2.py)  | [:link:](https://open.kattis.com/problems/election2)  |
+| Elegant Showroom | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElegantShowroom.py)  | [:link:](https://open.kattis.com/problems/showroom)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [:link:](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [:link:](https://open.kattis.com/problems/empleh)  |
 | Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [:link:](https://open.kattis.com/problems/equalsumseasy)  |
