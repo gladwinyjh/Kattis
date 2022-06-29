@@ -22,6 +22,7 @@ Mostly easy problems that don't require me to read a lot.
 | Another Brick in the Wall | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [:link:](https://open.kattis.com/problems/anotherbrick)  |
 | Ants | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Ants.cpp)  | [:link:](https://open.kattis.com/problems/ants)  |
 | Appalling Architecture | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AppallingArchitecture.py)  | [:link:](https://open.kattis.com/problems/appallingarchitecture)  |
+| Arbitrage | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Arbitrage.py)  | [:link:](https://open.kattis.com/problems/arbitrage)  |
 | Arctic Network | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [:link:](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [:link:](https://open.kattis.com/problems/arrayofdiscord)  |
 | Awkward Party | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AwkwardParty.py)  | [:link:](https://open.kattis.com/problems/awkwardparty)  |
@@ -133,6 +134,7 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [:link:](https://open.kattis.com/problems/magicalcows)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [:link:](https://open.kattis.com/problems/marko)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [:link:](https://open.kattis.com/problems/matchgame)  |
+| Millionaire Madness | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MillionaireMadness.py)  | [:link:](https://open.kattis.com/problems/millionairemadness)  |
 | Missing Gnomes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MissingGnomes.py)  | [:link:](https://open.kattis.com/problems/missinggnomes)  |
 | Mjehuric | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mjehuric.py)  | [:link:](https://open.kattis.com/problems/mjehuric)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [:link:](https://open.kattis.com/problems/moneymatters)  |
@@ -163,6 +165,7 @@ Mostly easy problems that don't require me to read a lot.
 | Robot Turtles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RobotTurtles.py)  | [:link:](https://open.kattis.com/problems/robotturtles)  |
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [:link:](https://open.kattis.com/problems/rollcall)  |
+| Secret Chamber at Mount Rushmore | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SecretChamber.py)  | [:link:](https://open.kattis.com/problems/secretchamber)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [:link:](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [:link:](https://open.kattis.com/problems/scrollingsign)  |
 | Shattered Cake | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShatteredCake.py)  | [:link:](https://open.kattis.com/problems/shatteredcake)  |
