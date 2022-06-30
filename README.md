@@ -115,12 +115,14 @@ Mostly easy problems that don't require me to read a lot.
 | Hurricane Danger! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HurricaneDanger.py)  | [:link:](https://open.kattis.com/problems/hurricanedanger)  |
 | Image Decoding | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ImageDecoding.py)  | [:link:](https://open.kattis.com/problems/imagedecoding)  |
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [:link:](https://open.kattis.com/problems/integerlists)  |
+| Interval Scheduling | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntervalScheduling.py)  | [:link:](https://open.kattis.com/problems/intervalscheduling)  |
 | Invasion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Invasion.py)  | [:link:](https://open.kattis.com/problems/invasion)  |
 | Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [:link:](https://open.kattis.com/problems/inverteddeck)  |
 | Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [:link:](https://open.kattis.com/problems/isithalloween)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [:link:](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [:link:](https://open.kattis.com/problems/karte)  |
+| Kastenlauf | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
 | Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
@@ -202,6 +204,7 @@ Mostly easy problems that don't require me to read a lot.
 | Train Boarding | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TrainBoarding.cpp)  | [:link:](https://open.kattis.com/problems/trainboarding)  |
 | Train Passengers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TrainPassengers.py)  | [:link:](https://open.kattis.com/problems/trainpassengers)  |
 | Transit Woes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [:link:](https://open.kattis.com/problems/transitwoes)  |
+| Transportation Planning | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TransportationPlanning.py)  | [:link:](https://open.kattis.com/problems/transportationplanning)  |
 | Tree Insertion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TreeInsertion.py)  | [:link:](https://open.kattis.com/problems/insert)  |
 | Tri | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [:link:](https://open.kattis.com/problems/tri)  |
 | Trik | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [:link:](https://open.kattis.com/problems/trik)  |
