@@ -127,6 +127,7 @@ Mostly easy problems that don't require me to read a lot.
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
+| Lava | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lava.py)  | [:link:](https://open.kattis.com/problems/lava)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [:link:](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [:link:](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [:link:](https://open.kattis.com/problems/lineup)  |
