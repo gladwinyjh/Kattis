@@ -119,6 +119,7 @@ Mostly easy problems that don't require me to read a lot.
 | Integer Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntegerLists.py)  | [:link:](https://open.kattis.com/problems/integerlists)  |
 | Interval Scheduling | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IntervalScheduling.py)  | [:link:](https://open.kattis.com/problems/intervalscheduling)  |
 | Invasion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Invasion.py)  | [:link:](https://open.kattis.com/problems/invasion)  |
+| Inventing Test Data | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Inventing.py)  | [:link:](https://open.kattis.com/problems/inventing)  |
 | Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [:link:](https://open.kattis.com/problems/inverteddeck)  |
 | Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [:link:](https://open.kattis.com/problems/isithalloween)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
@@ -144,6 +145,7 @@ Mostly easy problems that don't require me to read a lot.
 | Mjehuric | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mjehuric.py)  | [:link:](https://open.kattis.com/problems/mjehuric)  |
 | Money Matters | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoneyMatters.py)  | [:link:](https://open.kattis.com/problems/moneymatters)  |
 | Moscow Dream | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MoscowDream.py)  | [:link:](https://open.kattis.com/problems/moscowdream)  |
+| Muddy Hike | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MuddyHike.py)  | [:link:](https://open.kattis.com/problems/muddyhike)  |
 | Musical Trees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MusicalTrees.py)  | [:link:](https://open.kattis.com/problems/musicaltrees)  |
 | Natjecanje | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Natjecanje.py)  | [:link:](https://open.kattis.com/problems/natjecanje)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [:link:](https://open.kattis.com/problems/nikola)  |
