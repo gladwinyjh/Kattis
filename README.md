@@ -43,7 +43,9 @@ Mostly easy problems that don't require me to read a lot.
 | Bijele | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bijele.cpp)  | [:link:](https://open.kattis.com/problems/bijele)  |
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [:link:](https://open.kattis.com/problems/bottledup)  |
 | Brexit | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Brexit.py)  | [:link:](https://open.kattis.com/problems/brexit)  |
+| Brexit Negotiations | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BrexitNegotiations.py)  | [:link:](https://open.kattis.com/problems/brexitnegotiations)  |
 | Bridges and Tunnels | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BridgesAndTunnels.py)  | [:link:](https://open.kattis.com/problems/bridgesandtunnels)  |
+| Build Dependencies | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuildDeps.py)  | [:link:](https://open.kattis.com/problems/builddeps)  |
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [:link:](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [:link:](https://open.kattis.com/problems/bungeejumping)  |
 | Button Bashing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ButtonBashing.py)  | [:link:](https://open.kattis.com/problems/buttonbashing)  |
