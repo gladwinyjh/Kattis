@@ -50,6 +50,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [:link:](https://open.kattis.com/problems/bungeejumping)  |
 | Button Bashing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ButtonBashing.py)  | [:link:](https://open.kattis.com/problems/buttonbashing)  |
 | Carousel Rides | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [:link:](https://open.kattis.com/problems/carousel)  |
+| Cantina of Babel | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CantinaOfBabel.py)  | [:link:](https://open.kattis.com/problems/cantinaofbabel)  |
 | CD | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CD.py)  | [:link:](https://open.kattis.com/problems/cd)  |
 | Cetiri | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Cetiri.cpp)  | [:link:](https://open.kattis.com/problems/cetiri)  |
 | Charting Progress | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ChartingProgress.py)  | [:link:](https://open.kattis.com/problems/chartingprogress)  |
@@ -66,6 +67,7 @@ Mostly easy problems that don't require me to read a lot.
 | Conformity | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Conformity.cpp) <br> [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conformity.py)  | [:link:](https://open.kattis.com/problems/conformity)  |
 | Connect the Dots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConnectTheDots.py)  | [:link:](https://open.kattis.com/problems/connectthedots)  |
 | Conquest Campaign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConquestCampaign.py)  | [:link:](https://open.kattis.com/problems/conquestcampaign)  |
+| Conservation | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Conservation.py)  | [:link:](https://open.kattis.com/problems/conservation)  |
 | Conversation Log | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ConversationLog.py)  | [:link:](https://open.kattis.com/problems/conversationlog)  |
 | Costume Contest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CostumeContest.py)  | [:link:](https://open.kattis.com/problems/costumecontest)  |
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [:link:](https://open.kattis.com/problems/safe)  |
@@ -170,6 +172,7 @@ Mostly easy problems that don't require me to read a lot.
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [:link:](https://open.kattis.com/problems/commercials)  |
 | Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [:link:](https://open.kattis.com/problems/reachableroads)  |
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [:link:](https://open.kattis.com/problems/recount)  |
+| Reversing Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReversingRoads.py)  | [:link:](https://open.kattis.com/problems/reversingroads)  |
 | Riječi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rijeci.py)  | [:link:](https://open.kattis.com/problems/rijeci)  |
 | Robot Turtles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RobotTurtles.py)  | [:link:](https://open.kattis.com/problems/robotturtles)  |
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
