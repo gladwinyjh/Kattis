@@ -45,6 +45,7 @@ Mostly easy problems that don't require me to read a lot.
 | Brexit | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Brexit.py)  | [:link:](https://open.kattis.com/problems/brexit)  |
 | Brexit Negotiations | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BrexitNegotiations.py)  | [:link:](https://open.kattis.com/problems/brexitnegotiations)  |
 | Bridges and Tunnels | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BridgesAndTunnels.py)  | [:link:](https://open.kattis.com/problems/bridgesandtunnels)  |
+| Buggy Robot | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuggyRobot.py)  | [:link:](https://open.kattis.com/problems/buggyrobot)  |
 | Build Dependencies | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuildDeps.py)  | [:link:](https://open.kattis.com/problems/builddeps)  |
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [:link:](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [:link:](https://open.kattis.com/problems/bungeejumping)  |
@@ -238,5 +239,6 @@ Mostly easy problems that don't require me to read a lot.
 | Yin and Yang Stones | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/YinAndYangStones.py)  | [:link:](https://open.kattis.com/problems/yinyangstones)  |
 | Yoda  | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Yoda.py)  | [:link:](https://open.kattis.com/problems/yoda)  |
 | Zamka | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zamka.py)  | [:link:](https://open.kattis.com/problems/zamka)  |
+| Zoning | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zoning.py)  | [:link:](https://open.kattis.com/problems/zoning)  |
 | Zyxab | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/Zyxab.java)  | [:link:](https://open.kattis.com/problems/zyxab)  |
 | 2048 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/2048.py)  | [:link:](https://open.kattis.com/problems/2048)  |
