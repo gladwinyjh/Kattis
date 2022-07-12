@@ -74,11 +74,13 @@ Mostly easy problems that don't require me to read a lot.
 | Cracking The Safe | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrackingTheSafe.py)  | [:link:](https://open.kattis.com/problems/safe)  |
 | Crashing Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrashingRobots.py)  | [:link:](https://open.kattis.com/problems/crashingrobots)  |
 | Cross Country | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrossCountry.py)  | [:link:](https://open.kattis.com/problems/crosscountry)  |
+| Deduplicating Files | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DeduplicatingFiles.py)  | [:link:](https://open.kattis.com/problems/deduplicatingfiles)  |
 | Delimiter Soup | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DelimiterSoup.py)  | [:link:](https://open.kattis.com/problems/delimitersoup)  |
 | Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [:link:](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [:link:](https://open.kattis.com/problems/downtime)  |
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [:link:](https://open.kattis.com/problems/divideby100)  |
+| Dominoes 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dominoes2.py)  | [:link:](https://open.kattis.com/problems/dominoes2)  |
 | Driving Range | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DrivingRange.py)  | [:link:](https://open.kattis.com/problems/drivingrange)  |
 | Dungeon | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dungeon.py)  | [:link:](https://open.kattis.com/problems/dungeon)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [:link:](https://open.kattis.com/problems/dvds)  |
@@ -175,6 +177,7 @@ Mostly easy problems that don't require me to read a lot.
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [:link:](https://open.kattis.com/problems/recount)  |
 | Reversing Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReversingRoads.py)  | [:link:](https://open.kattis.com/problems/reversingroads)  |
 | Riječi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rijeci.py)  | [:link:](https://open.kattis.com/problems/rijeci)  |
+| Rings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rings2.py)  | [:link:](https://open.kattis.com/problems/rings2)  |
 | Robot Turtles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RobotTurtles.py)  | [:link:](https://open.kattis.com/problems/robotturtles)  |
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [:link:](https://open.kattis.com/problems/rollcall)  |
