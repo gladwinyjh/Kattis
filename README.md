@@ -80,6 +80,7 @@ Mostly easy problems that don't require me to read a lot.
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [:link:](https://open.kattis.com/problems/downtime)  |
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [:link:](https://open.kattis.com/problems/divideby100)  |
+| Dominos | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dominos.py)  | [:link:](https://open.kattis.com/problems/dominos)  |
 | Dominoes 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dominoes2.py)  | [:link:](https://open.kattis.com/problems/dominoes2)  |
 | Driving Range | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DrivingRange.py)  | [:link:](https://open.kattis.com/problems/drivingrange)  |
 | Dungeon | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dungeon.py)  | [:link:](https://open.kattis.com/problems/dungeon)  |
@@ -141,6 +142,7 @@ Mostly easy problems that don't require me to read a lot.
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [:link:](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [:link:](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [:link:](https://open.kattis.com/problems/lineup)  |
+| Loopy Cab Drivers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LoopyCabDrivers.py)  | [:link:](https://open.kattis.com/problems/loopycabdrivers)  |
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [:link:](https://open.kattis.com/problems/lostlineup)  |
 | Lost Map | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LostMap.py)  | [:link:](https://open.kattis.com/problems/lostmap)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [:link:](https://open.kattis.com/problems/luhnchecksum)  |
@@ -219,6 +221,7 @@ Mostly easy problems that don't require me to read a lot.
 | Train Passengers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TrainPassengers.py)  | [:link:](https://open.kattis.com/problems/trainpassengers)  |
 | Transit Woes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TransitWoes.py)  | [:link:](https://open.kattis.com/problems/transitwoes)  |
 | Transportation Planning | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TransportationPlanning.py)  | [:link:](https://open.kattis.com/problems/transportationplanning)  |
+| Treasure Hunt | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TreasureHunt.py)  | [:link:](https://open.kattis.com/problems/treasure)  |
 | Tree Insertion | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TreeInsertion.py)  | [:link:](https://open.kattis.com/problems/insert)  |
 | Tri | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [:link:](https://open.kattis.com/problems/tri)  |
 | Trik | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [:link:](https://open.kattis.com/problems/trik)  |
