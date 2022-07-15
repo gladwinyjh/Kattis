@@ -49,6 +49,7 @@ Mostly easy problems that don't require me to read a lot.
 | Build Dependencies | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuildDeps.py)  | [:link:](https://open.kattis.com/problems/builddeps)  |
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [:link:](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [:link:](https://open.kattis.com/problems/bungeejumping)  |
+| Bumped! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Bumped.py)  | [:link:](https://open.kattis.com/problems/bumped)  |
 | Button Bashing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ButtonBashing.py)  | [:link:](https://open.kattis.com/problems/buttonbashing)  |
 | Carousel Rides | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [:link:](https://open.kattis.com/problems/carousel)  |
 | Cantina of Babel | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CantinaOfBabel.py)  | [:link:](https://open.kattis.com/problems/cantinaofbabel)  |
@@ -76,6 +77,7 @@ Mostly easy problems that don't require me to read a lot.
 | Cross Country | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CrossCountry.py)  | [:link:](https://open.kattis.com/problems/crosscountry)  |
 | Deduplicating Files | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DeduplicatingFiles.py)  | [:link:](https://open.kattis.com/problems/deduplicatingfiles)  |
 | Delimiter Soup | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DelimiterSoup.py)  | [:link:](https://open.kattis.com/problems/delimitersoup)  |
+| Destination Unknown | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DestinationUnknown.py)  | [:link:](https://open.kattis.com/problems/destinationunknown)  |
 | Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [:link:](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [:link:](https://open.kattis.com/problems/downtime)  |
