@@ -106,6 +106,7 @@ Mostly easy problems that don't require me to read a lot.
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [:link:](https://open.kattis.com/problems/fizzbuzz)  |
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [:link:](https://open.kattis.com/problems/flippingpatties)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [:link:](https://open.kattis.com/problems/flowshop)  |
+| Flowery Trails | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FloweryTrails.py)  | [:link:](https://open.kattis.com/problems/flowerytrails)  |
 | Forced Choice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForcedChoice.py)  | [:link:](https://open.kattis.com/problems/forcedchoice)  |
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [:link:](https://open.kattis.com/problems/forests)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [:link:](https://open.kattis.com/problems/fontan)  |
@@ -149,6 +150,7 @@ Mostly easy problems that don't require me to read a lot.
 | Lost Map | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LostMap.py)  | [:link:](https://open.kattis.com/problems/lostmap)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [:link:](https://open.kattis.com/problems/luhnchecksum)  |
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [:link:](https://open.kattis.com/problems/magicalcows)  |
+| Mall Mania | [Python 3(TLE)](https://github.com/gladwinyjh/Kattis/blob/main/python/MallMania.py)  | [:link:](https://open.kattis.com/problems/mallmania)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [:link:](https://open.kattis.com/problems/marko)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [:link:](https://open.kattis.com/problems/matchgame)  |
 | Millionaire Madness | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MillionaireMadness.py)  | [:link:](https://open.kattis.com/problems/millionairemadness)  |
