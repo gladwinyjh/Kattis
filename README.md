@@ -93,6 +93,8 @@ Mostly easy problems that don't require me to read a lot.
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [:link:](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [:link:](https://open.kattis.com/problems/empleh)  |
 | Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [:link:](https://open.kattis.com/problems/equalsumseasy)  |
+| Erdős Numbers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErdosNumbers.py)  | [:link:](https://open.kattis.com/problems/erdosnumbers)  |
+| Erratic Ants | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErraticAnts.py)  | [:link:](https://open.kattis.com/problems/erraticants)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [:link:](https://open.kattis.com/problems/evenup)  |
 | Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [:link:](https://open.kattis.com/problems/exam)  |
 | Expected Earnings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ExpectedEarnings.py)  | [:link:](https://open.kattis.com/problems/expectedearnings)  |
