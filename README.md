@@ -41,6 +41,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bela | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bela.cpp)  | [:link:](https://open.kattis.com/problems/bela)  |
 | Biased Standings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [:link:](https://open.kattis.com/problems/standings)  |
 | Bijele | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bijele.cpp)  | [:link:](https://open.kattis.com/problems/bijele)  |
+| Block Crusher | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BlockCrusher.py)  | [:link:](https://open.kattis.com/problems/blockcrusher)  |
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [:link:](https://open.kattis.com/problems/bottledup)  |
 | Brexit | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Brexit.py)  | [:link:](https://open.kattis.com/problems/brexit)  |
 | Brexit Negotiations | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BrexitNegotiations.py)  | [:link:](https://open.kattis.com/problems/brexitnegotiations)  |
@@ -78,6 +79,7 @@ Mostly easy problems that don't require me to read a lot.
 | Deduplicating Files | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DeduplicatingFiles.py)  | [:link:](https://open.kattis.com/problems/deduplicatingfiles)  |
 | Delimiter Soup | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DelimiterSoup.py)  | [:link:](https://open.kattis.com/problems/delimitersoup)  |
 | Destination Unknown | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DestinationUnknown.py)  | [:link:](https://open.kattis.com/problems/destinationunknown)  |
+| Detour | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Detour.py)  | [:link:](https://open.kattis.com/problems/detour)  |
 | Dice Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DiceGame.py)  | [:link:](https://open.kattis.com/problems/dicegame)  |
 | Digital Display | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DigitalDisplay.py)  | [:link:](https://open.kattis.com/problems/display)  |
 | Disastrous Downtime | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DisastrousDowntime.py)  | [:link:](https://open.kattis.com/problems/downtime)  |
@@ -148,6 +150,7 @@ Mostly easy problems that don't require me to read a lot.
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [:link:](https://open.kattis.com/problems/liga)  |
 | Line Them Up | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LineThemUp.cpp)  | [:link:](https://open.kattis.com/problems/lineup)  |
 | Loopy Cab Drivers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LoopyCabDrivers.py)  | [:link:](https://open.kattis.com/problems/loopycabdrivers)  |
+| Lost in Translation | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lost.py)  | [:link:](https://open.kattis.com/problems/lost)  |
 | Lost Lineup | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LostLineup.cpp)  | [:link:](https://open.kattis.com/problems/lostlineup)  |
 | Lost Map | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LostMap.py)  | [:link:](https://open.kattis.com/problems/lostmap)  |
 | Luhn's Checksum Algorithm | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/LuhnsChecksumAlgorithm.cpp)  | [:link:](https://open.kattis.com/problems/luhnchecksum)  |
