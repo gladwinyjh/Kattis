@@ -115,7 +115,8 @@ Mostly easy problems that don't require me to read a lot.
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [:link:](https://open.kattis.com/problems/forests)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [:link:](https://open.kattis.com/problems/fontan)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [:link:](https://open.kattis.com/problems/freckles)  |
-| Fridge| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [:link:](https://open.kattis.com/problems/fridge)  |
+| Fridge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [:link:](https://open.kattis.com/problems/fridge)  |
+| Full Tank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FullTank.py)  | [:link:](https://open.kattis.com/problems/fulltank)  |
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [:link:](https://open.kattis.com/problems/gamerank)  |
 | George | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/George.py)  | [:link:](https://open.kattis.com/problems/george)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [:link:](https://open.kattis.com/problems/goodmorning)  |
@@ -170,6 +171,7 @@ Mostly easy problems that don't require me to read a lot.
 | One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [:link:](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [:link:](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [:link:](https://open.kattis.com/problems/parking)  |
+| Passing Secrets | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PassingSecrets.py)  | [:link:](https://open.kattis.com/problems/passingsecrets)  |
 | Password Hacking | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PasswordHacking.py)  | [:link:](https://open.kattis.com/problems/password)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [:link:](https://open.kattis.com/problems/patuljci)  |
 | Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [:link:](https://open.kattis.com/problems/peasoup)  |
