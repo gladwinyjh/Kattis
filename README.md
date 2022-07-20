@@ -94,6 +94,7 @@ Mostly easy problems that don't require me to read a lot.
 | Elegant Showroom | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElegantShowroom.py)  | [:link:](https://open.kattis.com/problems/showroom)  |
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [:link:](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [:link:](https://open.kattis.com/problems/empleh)  |
+| Emptying the Baltic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EmptyingBaltic.py)  | [:link:](https://open.kattis.com/problems/emptyingbaltic)  |
 | Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [:link:](https://open.kattis.com/problems/equalsumseasy)  |
 | Erdős Numbers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErdosNumbers.py)  | [:link:](https://open.kattis.com/problems/erdosnumbers)  |
 | Erratic Ants | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErraticAnts.py)  | [:link:](https://open.kattis.com/problems/erraticants)  |
@@ -106,6 +107,7 @@ Mostly easy problems that don't require me to read a lot.
 | Fire | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire.py)  | [:link:](https://open.kattis.com/problems/fire2)  |
 | Fire! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire3.py)  | [:link:](https://open.kattis.com/problems/fire3)  |
 | Firefly | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Firefly.py)  | [:link:](https://open.kattis.com/problems/firefly)  |
+| Fire Station | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FireStation.py)  | [:link:](https://open.kattis.com/problems/firestation)  |
 | Firetrucks Are Red | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FiretrucksAreRed.py)  | [:link:](https://open.kattis.com/problems/firetrucksarered)  |
 | FizzBuzz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FizzBuzz.py)  | [:link:](https://open.kattis.com/problems/fizzbuzz)  |
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [:link:](https://open.kattis.com/problems/flippingpatties)  |
