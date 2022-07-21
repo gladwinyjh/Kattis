@@ -37,6 +37,7 @@ Mostly easy problems that don't require me to read a lot.
 | Basic Programming 2 | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/BasicProgrammingTwo.cpp)  | [:link:](https://open.kattis.com/problems/basicprogramming2)  |
 | Battleship | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Battleship.py)  | [:link:](https://open.kattis.com/problems/battleship)  |
 | Beat The Spread! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BeatTheSpread.py)  | [:link:](https://open.kattis.com/problems/beatspread)  |
+| Beehives | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Beehives2.py)  | [:link:](https://open.kattis.com/problems/beehives2)  |
 | Beekeeper | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [:link:](https://open.kattis.com/problems/beekeeper)  |
 | Bela | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bela.cpp)  | [:link:](https://open.kattis.com/problems/bela)  |
 | Biased Standings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [:link:](https://open.kattis.com/problems/standings)  |
@@ -98,6 +99,7 @@ Mostly easy problems that don't require me to read a lot.
 | Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [:link:](https://open.kattis.com/problems/equalsumseasy)  |
 | Erdős Numbers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErdosNumbers.py)  | [:link:](https://open.kattis.com/problems/erdosnumbers)  |
 | Erratic Ants | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErraticAnts.py)  | [:link:](https://open.kattis.com/problems/erraticants)  |
+| Escape Wall Maria | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EscapeWallMaria.py)  | [:link:](https://open.kattis.com/problems/escapewallmaria)  |
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [:link:](https://open.kattis.com/problems/evenup)  |
 | Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [:link:](https://open.kattis.com/problems/exam)  |
 | Expected Earnings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ExpectedEarnings.py)  | [:link:](https://open.kattis.com/problems/expectedearnings)  |
