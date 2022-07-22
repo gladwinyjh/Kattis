@@ -46,6 +46,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [:link:](https://open.kattis.com/problems/bottledup)  |
 | Brexit | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Brexit.py)  | [:link:](https://open.kattis.com/problems/brexit)  |
 | Brexit Negotiations | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BrexitNegotiations.py)  | [:link:](https://open.kattis.com/problems/brexitnegotiations)  |
+| Bridges | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Bridges.py)  | [:link:](https://open.kattis.com/problems/bryr)  |
 | Bridges and Tunnels | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BridgesAndTunnels.py)  | [:link:](https://open.kattis.com/problems/bridgesandtunnels)  |
 | Buggy Robot | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuggyRobot.py)  | [:link:](https://open.kattis.com/problems/buggyrobot)  |
 | Build Dependencies | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BuildDeps.py)  | [:link:](https://open.kattis.com/problems/builddeps)  |
@@ -210,16 +211,19 @@ Mostly easy problems that don't require me to read a lot.
 | Single source shortest path, non-negative weights | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath1.py)  | [:link:](https://open.kattis.com/problems/shortestpath1)  |
 | Single source shortest path, safe path | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath4.py)  | [:link:](https://open.kattis.com/problems/shortestpath4)  |
 | Single source shortest path, time table | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShortestPath2.py)  | [:link:](https://open.kattis.com/problems/shortestpath2)  |
+| Six Degrees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SixDegrees.py)  | [:link:](https://open.kattis.com/problems/sixdegrees)  |
 | Slikar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Slikar.py)  | [:link:](https://open.kattis.com/problems/slikar)  |
 | Sok | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Sok.py)  | [:link:](https://open.kattis.com/problems/sok)  |
 | Stacking Cups | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/StackingCups.cpp)  | [:link:](https://open.kattis.com/problems/cups)  |
 | Stand on Zanzibar | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StandOnZanzibar.py)  | [:link:](https://open.kattis.com/problems/zanzibar)  |
 | Stopwatch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/StopWatch.py)  | [:link:](https://open.kattis.com/problems/stopwatch)  |
+| Subway | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Subway2.py)  | [:link:](https://open.kattis.com/problems/subway2)  |
 | Symmetric Order | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SymmetricOrder.py)  | [:link:](https://open.kattis.com/problems/symmetricorder)  |
 | Synchronizing Lists | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SynchronizingLists.py)  | [:link:](https://open.kattis.com/problems/synchronizinglists)  |
 | Tai's Formula | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TaisFormula.py)  | [:link:](https://open.kattis.com/problems/taisformula)  |
 | Tarifa | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tarifa.py)  | [:link:](https://open.kattis.com/problems/tarifa)  |
 | Tetration | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [:link:](https://open.kattis.com/problems/tetration)  |
+| Texas Summers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TexasSummers.py)  | [:link:](https://open.kattis.com/problems/texassummers)  |
 | Thanos | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Thanos.cpp)  | [:link:](https://open.kattis.com/problems/thanos)  |
 | The Amazing Human Cannonball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [:link:](https://open.kattis.com/problems/humancannonball2)  |
 | The Dragon of Loowater | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [:link:](https://open.kattis.com/problems/loowater)  |
