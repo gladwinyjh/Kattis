@@ -149,6 +149,7 @@ Mostly easy problems that don't require me to read a lot.
 | Kastenlauf | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
 | Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
+| Kutevi | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
 | Lava | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lava.py)  | [:link:](https://open.kattis.com/problems/lava)  |
@@ -229,8 +230,10 @@ Mostly easy problems that don't require me to read a lot.
 | The Dragon of Loowater | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Loowater.py)  | [:link:](https://open.kattis.com/problems/loowater)  |
 | The Last Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheLastProblem.py)  | [:link:](https://open.kattis.com/problems/thelastproblem)  |
 | The Mailbox Manufacturers Problem | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mailbox.py)  | [:link:](https://open.kattis.com/problems/mailbox)  |
+| The Weight of Words | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WeightOfWords.py)  | [:link:](https://open.kattis.com/problems/weightofwords)  |
 | Through the Grapevine | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grapevine.py)  | [:link:](https://open.kattis.com/problems/grapevine)  |
 | Tic Tac Toe (2) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TicTacToe2.py)  | [:link:](https://open.kattis.com/problems/tictactoe2)  |
+| Tide Goes In, Tide Goes Out | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tide.py)  | [:link:](https://open.kattis.com/problems/tide)  |
 | Time Travelling Temperatures | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/TimeTravellingTemperatures.cpp)  | [:link:](https://open.kattis.com/problems/temperature)  |
 | Toilet Seat | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ToiletSeat.py)  | [:link:](https://open.kattis.com/problems/toilet)  |
 | Touchscreen Keyboard | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TouchscreenKeyboard.py)  | [:link:](https://open.kattis.com/problems/touchscreenkeyboard)  |
