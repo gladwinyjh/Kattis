@@ -104,6 +104,7 @@ Mostly easy problems that don't require me to read a lot.
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [:link:](https://open.kattis.com/problems/evenup)  |
 | Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [:link:](https://open.kattis.com/problems/exam)  |
 | Expected Earnings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ExpectedEarnings.py)  | [:link:](https://open.kattis.com/problems/expectedearnings)  |
+| Falling Apples | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FallingApples.py)  | [:link:](https://open.kattis.com/problems/apples)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [:link:](https://open.kattis.com/problems/fastfood)  |
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [:link:](https://open.kattis.com/problems/ferryloading3)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [:link:](https://open.kattis.com/problems/fieldtrip)  |
@@ -174,6 +175,7 @@ Mostly easy problems that don't require me to read a lot.
 | Musical Trees | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MusicalTrees.py)  | [:link:](https://open.kattis.com/problems/musicaltrees)  |
 | Natjecanje | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Natjecanje.py)  | [:link:](https://open.kattis.com/problems/natjecanje)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [:link:](https://open.kattis.com/problems/nikola)  |
+| Nizovi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nizovi.py)  | [:link:](https://open.kattis.com/problems/nizovi)  |
 | One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [:link:](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [:link:](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [:link:](https://open.kattis.com/problems/parking)  |
@@ -258,6 +260,7 @@ Mostly easy problems that don't require me to read a lot.
 | Unique Snowflakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UniqueSnowflakes.py)  | [:link:](https://open.kattis.com/problems/snowflakes)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [:link:](https://open.kattis.com/problems/unlockpattern)  |
 | Warehouse | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Warehouse.py)  | [:link:](https://open.kattis.com/problems/warehouse)  |
+| Watersheds | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Watersheds.py)  | [:link:](https://open.kattis.com/problems/watersheds)  |
 | Welcome to Code Jam (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WelcomeEasy.py)  | [:link:](https://open.kattis.com/problems/welcomeeasy)  |
 | WERTYU | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WERTYU.py)  | [:link:](https://open.kattis.com/problems/wertyu)  |
 | Wet Tiles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/WetTiles.py)  | [:link:](https://open.kattis.com/problems/wettiles)  |
