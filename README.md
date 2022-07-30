@@ -125,6 +125,7 @@ Mostly easy problems that don't require me to read a lot.
 | Full Tank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FullTank.py)  | [:link:](https://open.kattis.com/problems/fulltank)  |
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [:link:](https://open.kattis.com/problems/gamerank)  |
 | George | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/George.py)  | [:link:](https://open.kattis.com/problems/george)  |
+| Get Shorty | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GetShorty.py)  | [:link:](https://open.kattis.com/problems/getshorty)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [:link:](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [:link:](https://open.kattis.com/problems/grandpabernie)  |
 | Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [:link:](https://open.kattis.com/problems/grid)  |
@@ -133,6 +134,7 @@ Mostly easy problems that don't require me to read a lot.
 | Help Me With The Game | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HelpMeWithTheGame.cpp)  | [:link:](https://open.kattis.com/problems/helpme)  |
 | Hexagonal Rooks | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/HexagonalRooks.cpp)  | [:link:](https://open.kattis.com/problems/hexagonalrooks)  |
 | Hiding Places | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HidingPlaces.py)  | [:link:](https://open.kattis.com/problems/hidingplaces)  |
+| Hopscotch 50 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Hopscotch50.py)  | [:link:](https://open.kattis.com/problems/hopscotch50)  |
 | Horror List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HorrorList.py)  | [:link:](https://open.kattis.com/problems/horror)  |
 | Hot Hike | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/HotHike.py)  | [:link:](https://open.kattis.com/problems/hothike)  |
 | Howl | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Howl.py)  | [:link:](https://open.kattis.com/problems/howl)  |
@@ -196,6 +198,7 @@ Mostly easy problems that don't require me to read a lot.
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [:link:](https://open.kattis.com/problems/commercials)  |
 | Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [:link:](https://open.kattis.com/problems/reachableroads)  |
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [:link:](https://open.kattis.com/problems/recount)  |
+| Red Rover | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RedRover.py)  | [:link:](https://open.kattis.com/problems/redrover)  |
 | Reversing Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReversingRoads.py)  | [:link:](https://open.kattis.com/problems/reversingroads)  |
 | Riječi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rijeci.py)  | [:link:](https://open.kattis.com/problems/rijeci)  |
 | Rings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rings2.py)  | [:link:](https://open.kattis.com/problems/rings2)  |
