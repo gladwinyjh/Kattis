@@ -41,6 +41,7 @@ Mostly easy problems that don't require me to read a lot.
 | Beekeeper | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Beekeeper.py)  | [:link:](https://open.kattis.com/problems/beekeeper)  |
 | Bela | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bela.cpp)  | [:link:](https://open.kattis.com/problems/bela)  |
 | Biased Standings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BiasedStandings.py)  | [:link:](https://open.kattis.com/problems/standings)  |
+| Big Truck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BigTruck.py)  | [:link:](https://open.kattis.com/problems/bigtruck)  |
 | Bijele | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Bijele.cpp)  | [:link:](https://open.kattis.com/problems/bijele)  |
 | Block Crusher | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BlockCrusher.py)  | [:link:](https://open.kattis.com/problems/blockcrusher)  |
 | Bottled-Up Feelings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BottledUp.py)  | [:link:](https://open.kattis.com/problems/bottledup)  |
@@ -118,6 +119,7 @@ Mostly easy problems that don't require me to read a lot.
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [:link:](https://open.kattis.com/problems/flowshop)  |
 | Flowery Trails | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FloweryTrails.py)  | [:link:](https://open.kattis.com/problems/flowerytrails)  |
 | Forced Choice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForcedChoice.py)  | [:link:](https://open.kattis.com/problems/forcedchoice)  |
+| Forest Fruits | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForestFruits.py)  | [:link:](https://open.kattis.com/problems/forestfruits)  |
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [:link:](https://open.kattis.com/problems/forests)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [:link:](https://open.kattis.com/problems/fontan)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [:link:](https://open.kattis.com/problems/freckles)  |
