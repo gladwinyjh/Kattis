@@ -153,6 +153,7 @@ Mostly easy problems that don't require me to read a lot.
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [:link:](https://open.kattis.com/problems/karte)  |
 | Kastenlauf | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
 | Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
+| Kitchen Measurements | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
 | Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Kutevi | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
