@@ -151,11 +151,11 @@ Mostly easy problems that don't require me to read a lot.
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [:link:](https://open.kattis.com/problems/judging)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [:link:](https://open.kattis.com/problems/karte)  |
-| Kastenlauf | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
-| Keyboards in Concert | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
-| Kitchen Measurements | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
-| Knot Knowledge | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
-| Kutevi | [Python3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
+| Kastenlauf | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
+| Keyboards in Concert | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
+| Kitchen Measurements | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
+| Knot Knowledge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
+| Kutevi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
 | Lava | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lava.py)  | [:link:](https://open.kattis.com/problems/lava)  |
@@ -181,7 +181,7 @@ Mostly easy problems that don't require me to read a lot.
 | Natjecanje | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Natjecanje.py)  | [:link:](https://open.kattis.com/problems/natjecanje)  |
 | Nikola | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nikola.py)  | [:link:](https://open.kattis.com/problems/nikola)  |
 | Nizovi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Nizovi.py)  | [:link:](https://open.kattis.com/problems/nizovi)  |
-| One Chicken Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [:link:](https://open.kattis.com/problems/onechicken)  |
+| One Chick[Python 3]en Per Person! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/OneChicken.py)  | [:link:](https://open.kattis.com/problems/onechicken)  |
 | Paradox With Averages (Hard) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ParadoxWithAveragesHard.py)  | [:link:](https://open.kattis.com/problems/averageshard)  |
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [:link:](https://open.kattis.com/problems/parking)  |
 | Passing Secrets | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PassingSecrets.py)  | [:link:](https://open.kattis.com/problems/passingsecrets)  |
