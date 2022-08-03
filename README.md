@@ -186,6 +186,7 @@ Mostly easy problems that don't require me to read a lot.
 | Parking | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Parking.cpp)  | [:link:](https://open.kattis.com/problems/parking)  |
 | Passing Secrets | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PassingSecrets.py)  | [:link:](https://open.kattis.com/problems/passingsecrets)  |
 | Password Hacking | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PasswordHacking.py)  | [:link:](https://open.kattis.com/problems/password)  |
+| Path Tracing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PathTracing.py)  | [:link:](https://open.kattis.com/problems/pathtracing)  |
 | Patuljci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Patuljci.py)  | [:link:](https://open.kattis.com/problems/patuljci)  |
 | Pea Soup and Pancakes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PeaSoup.py)  | [:link:](https://open.kattis.com/problems/peasoup)  |
 | Permutation Descent Counts | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PDC.py)  | [:link:](https://open.kattis.com/problems/permutationdescent)  |
@@ -208,6 +209,7 @@ Mostly easy problems that don't require me to read a lot.
 | Robot Turtles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RobotTurtles.py)  | [:link:](https://open.kattis.com/problems/robotturtles)  |
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [:link:](https://open.kattis.com/problems/rollcall)  |
+| Rot | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rot.py)  | [:link:](https://open.kattis.com/problems/rot)  |
 | Secret Chamber at Mount Rushmore | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SecretChamber.py)  | [:link:](https://open.kattis.com/problems/secretchamber)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [:link:](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [:link:](https://open.kattis.com/problems/scrollingsign)  |
