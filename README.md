@@ -92,6 +92,7 @@ Mostly easy problems that don't require me to read a lot.
 | Driving Range | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DrivingRange.py)  | [:link:](https://open.kattis.com/problems/drivingrange)  |
 | Dungeon | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dungeon.py)  | [:link:](https://open.kattis.com/problems/dungeon)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [:link:](https://open.kattis.com/problems/dvds)  |
+| Dyslectionary | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dyslectionary.py)  | [:link:](https://open.kattis.com/problems/dyslectionary)  |
 | Early Winter | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EarlyWinter.cpp)  | [:link:](https://open.kattis.com/problems/earlywinter)  |
 | Election 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Election2.py)  | [:link:](https://open.kattis.com/problems/election2)  |
 | Elegant Showroom | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElegantShowroom.py)  | [:link:](https://open.kattis.com/problems/showroom)  |
@@ -150,6 +151,7 @@ Mostly easy problems that don't require me to read a lot.
 | Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [:link:](https://open.kattis.com/problems/isithalloween)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [:link:](https://open.kattis.com/problems/judging)  |
+| Jumping Yoshi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/JumpingYoshi.py)  | [:link:](https://open.kattis.com/problems/jumpingyoshi)  |
 | Karte | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Karte.cpp)  | [:link:](https://open.kattis.com/problems/karte)  |
 | Kastenlauf | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
 | Keyboards in Concert | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
