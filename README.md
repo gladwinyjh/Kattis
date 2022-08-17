@@ -158,6 +158,7 @@ Mostly easy problems that don't require me to read a lot.
 | Kitchen Measurements | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
 | Knot Knowledge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Kutevi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
+| Ladice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Ladice.py)  | [:link:](https://open.kattis.com/problems/ladice)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
 | Lava | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lava.py)  | [:link:](https://open.kattis.com/problems/lava)  |
@@ -260,10 +261,12 @@ Mostly easy problems that don't require me to read a lot.
 | Tri | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tri.py)  | [:link:](https://open.kattis.com/problems/tri)  |
 | Trik | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Trik.py)  | [:link:](https://open.kattis.com/problems/trik)  |
 | Triple Texting | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TripleTexting.py)  | [:link:](https://open.kattis.com/problems/tripletexting)  |
+| Union-Find | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Union-Find.py)  | [:link:](https://open.kattis.com/problems/unionfind)  |
 | Unlock Pattern | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/UnlockPattern.py)  | [:link:](https://open.kattis.com/problems/unlockpattern)  |
 | Vaccine Efficacy | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccineEfficacy.cpp)  | [:link:](https://open.kattis.com/problems/vaccineefficacy)  |
 | Variable Arithmetic | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VariableArithmetic.cpp)  | [:link:](https://open.kattis.com/problems/variablearithmetic)  |
 | Veci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [:link:](https://open.kattis.com/problems/veci)  |
+| Virtual Friends | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VirtualFriends.py)  | [:link:](https://open.kattis.com/problems/virtualfriends)  |
 | VisuAlgo Online Quiz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VisuAlgo.py)  | [:link:](https://open.kattis.com/problems/visualgo)  |
 | Volim | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [:link:](https://open.kattis.com/problems/volim)  |
 | Un-bear-able Zoo | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Zoo.py)  | [:link:](https://open.kattis.com/problems/zoo)  |
