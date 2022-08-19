@@ -158,6 +158,7 @@ Mostly easy problems that don't require me to read a lot.
 | Kitchen Measurements | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
 | Knot Knowledge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Kutevi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
+| Ladder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Ladder.py)  | [:link:](https://open.kattis.com/problems/ladder)  |
 | Ladice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Ladice.py)  | [:link:](https://open.kattis.com/problems/ladice)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
@@ -201,6 +202,7 @@ Mostly easy problems that don't require me to read a lot.
 | Preludes | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [:link:](https://open.kattis.com/problems/chopin)  |
 | Prime Spiral | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Spiral.py)  | [:link:](https://open.kattis.com/problems/spiral)  |
 | Prozor | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Prozor.py)  | [:link:](https://open.kattis.com/problems/prozor)  |
+| Prva | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Prva.py)  | [:link:](https://open.kattis.com/problems/prva)  |
 | Quadrant Selection | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/QuadrantSelection.py)  | [:link:](https://open.kattis.com/problems/quadrant)  |
 | Radio Commercials | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/RadioCommercials.cpp)  | [:link:](https://open.kattis.com/problems/commercials)  |
 | Reachable Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReachableRoads.py)  | [:link:](https://open.kattis.com/problems/reachableroads)  |
