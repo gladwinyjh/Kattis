@@ -15,6 +15,7 @@ Mostly easy problems that don't require me to read a lot.
 | Akcija | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Akcija.py)  | [:link:](https://open.kattis.com/problems/akcija)  |
 | Alice in the Digital World | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AliceDigital.cpp)  | [:link:](https://open.kattis.com/problems/alicedigital)  |
 | All Just A Dream | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/AllJustADream.cpp)  | [:link:](https://open.kattis.com/problems/dream)  |
+| Almost Union-Find | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Almost-Union-Find.py)  | [:link:](https://open.kattis.com/problems/almostunionfind)  |
 | Alphabet | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Alphabet.py)  | [:link:](https://open.kattis.com/problems/alphabet)  |
 | Alphabet Animals | [Java](https://github.com/gladwinyjh/Kattis/blob/main/java/AlphabetAnimals.java)  | [:link:](https://open.kattis.com/problems/alphabetanimals)  |
 | An I for an Eye | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AnIForAnEye.py)  | [:link:](https://open.kattis.com/problems/iforaneye)  |
