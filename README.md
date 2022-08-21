@@ -63,6 +63,7 @@ Mostly easy problems that don't require me to read a lot.
 | Charting Progress | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ChartingProgress.py)  | [:link:](https://open.kattis.com/problems/chartingprogress)  |
 | Chess | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Chess.cpp)  | [:link:](https://open.kattis.com/problems/chess)  |
 | Climbing Worm | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ClimbingWorm.py)  | [:link:](https://open.kattis.com/problems/climbingworm)  |
+| Coast Length | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CoastLength.py)  | [:link:](https://open.kattis.com/problems/coast)  |
 | Code Cleanups | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CodeCleanups.py)  | [:link:](https://open.kattis.com/problems/codecleanups)  |
 | Cold-puter Science | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/ColdputerScience.cpp)  | [:link:](https://open.kattis.com/problems/cold)  |
 | Coloring Socks | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ColoringSocks.py)  | [:link:](https://open.kattis.com/problems/color)  |
