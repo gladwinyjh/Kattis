@@ -270,6 +270,7 @@ Mostly easy problems that don't require me to read a lot.
 | Vaccine Efficacy | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VaccineEfficacy.cpp)  | [:link:](https://open.kattis.com/problems/vaccineefficacy)  |
 | Variable Arithmetic | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/VariableArithmetic.cpp)  | [:link:](https://open.kattis.com/problems/variablearithmetic)  |
 | Veci | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Veci.py)  | [:link:](https://open.kattis.com/problems/veci)  |
+| Vin Diagrams | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VinDiagrams.py)  | [:link:](https://open.kattis.com/problems/vindiagrams)  |
 | Virtual Friends | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VirtualFriends.py)  | [:link:](https://open.kattis.com/problems/virtualfriends)  |
 | VisuAlgo Online Quiz | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/VisuAlgo.py)  | [:link:](https://open.kattis.com/problems/visualgo)  |
 | Volim | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Volim.py)  | [:link:](https://open.kattis.com/problems/volim)  |
