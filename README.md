@@ -151,6 +151,7 @@ Mostly easy problems that don't require me to read a lot.
 | Inventing Test Data | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Inventing.py)  | [:link:](https://open.kattis.com/problems/inventing)  |
 | Inverted Deck | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/InvertedDeck.py)  | [:link:](https://open.kattis.com/problems/inverteddeck)  |
 | Is It Halloween | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IsItHalloween.py)  | [:link:](https://open.kattis.com/problems/isithalloween)  |
+| Island Buses | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandBuses.py)  | [:link:](https://open.kattis.com/problems/island)  |
 | Island Hopping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/IslandHopping.py)  | [:link:](https://open.kattis.com/problems/islandhopping)  |
 | Judging Troubles | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/JudgingTroubles.cpp)  | [:link:](https://open.kattis.com/problems/judging)  |
 | Jumping Yoshi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/JumpingYoshi.py)  | [:link:](https://open.kattis.com/problems/jumpingyoshi)  |
