@@ -131,6 +131,7 @@ Mostly easy problems that don't require me to read a lot.
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [:link:](https://open.kattis.com/problems/gamerank)  |
 | George | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/George.py)  | [:link:](https://open.kattis.com/problems/george)  |
 | Get Shorty | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GetShorty.py)  | [:link:](https://open.kattis.com/problems/getshorty)  |
+| Getting Gold | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GettingGold.py)  | [:link:](https://open.kattis.com/problems/gold)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [:link:](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [:link:](https://open.kattis.com/problems/grandpabernie)  |
 | Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [:link:](https://open.kattis.com/problems/grid)  |
