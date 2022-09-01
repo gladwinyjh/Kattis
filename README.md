@@ -101,6 +101,7 @@ Mostly easy problems that don't require me to read a lot.
 | Elevator Trouble| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ElevatorTrouble.py)  | [:link:](https://open.kattis.com/problems/elevatortrouble)  |
 | Emag Eht Htiw Em Pleh | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Empleh.cpp)  | [:link:](https://open.kattis.com/problems/empleh)  |
 | Emptying the Baltic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EmptyingBaltic.py)  | [:link:](https://open.kattis.com/problems/emptyingbaltic)  |
+| Entering the Time | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EnteringTheTime.py)  | [:link:](https://open.kattis.com/problems/enteringthetime)  |
 | Equal Sums (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/EqualSumsEasy.py)  | [:link:](https://open.kattis.com/problems/equalsumseasy)  |
 | Erdős Numbers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErdosNumbers.py)  | [:link:](https://open.kattis.com/problems/erdosnumbers)  |
 | Erratic Ants | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ErraticAnts.py)  | [:link:](https://open.kattis.com/problems/erraticants)  |
