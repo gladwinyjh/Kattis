@@ -204,6 +204,7 @@ Mostly easy problems that don't require me to read a lot.
 | Planina | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Planina.py)  | [:link:](https://open.kattis.com/problems/planina)  |
 | Popular Vote | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PopularVote.cpp)  | [:link:](https://open.kattis.com/problems/vote)  |
 | Postal Delivery | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/PostalDelivery.cpp)  | [:link:](https://open.kattis.com/problems/delivery)  |
+| Powers of 2 (Easy) | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/PowersOf2Easy.py)  | [:link:](https://open.kattis.com/problems/powersof2easy)  |
 | Preludes | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Preludes.cpp)  | [:link:](https://open.kattis.com/problems/chopin)  |
 | Prime Spiral | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Spiral.py)  | [:link:](https://open.kattis.com/problems/spiral)  |
 | Prozor | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Prozor.py)  | [:link:](https://open.kattis.com/problems/prozor)  |
@@ -214,6 +215,7 @@ Mostly easy problems that don't require me to read a lot.
 | Recount | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Recount.cpp)  | [:link:](https://open.kattis.com/problems/recount)  |
 | Red Rover | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RedRover.py)  | [:link:](https://open.kattis.com/problems/redrover)  |
 | Reversing Roads | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ReversingRoads.py)  | [:link:](https://open.kattis.com/problems/reversingroads)  |
+| Ricochet Robots | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RicochetRobots.py)  | [:link:](https://open.kattis.com/problems/ricochetrobots)  |
 | Riječi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rijeci.py)  | [:link:](https://open.kattis.com/problems/rijeci)  |
 | Rings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rings2.py)  | [:link:](https://open.kattis.com/problems/rings2)  |
 | Robot Turtles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RobotTurtles.py)  | [:link:](https://open.kattis.com/problems/robotturtles)  |
