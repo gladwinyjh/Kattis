@@ -91,6 +91,7 @@ Mostly easy problems that don't require me to read a lot.
 | Divide by 100... | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DivideBy100.py)  | [:link:](https://open.kattis.com/problems/divideby100)  |
 | Dominos | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dominos.py)  | [:link:](https://open.kattis.com/problems/dominos)  |
 | Dominoes 2 | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dominoes2.py)  | [:link:](https://open.kattis.com/problems/dominoes2)  |
+| Drinking Song | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DrinkingSong.py)  | [:link:](https://open.kattis.com/problems/drinkingsong)  |
 | Driving Range | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/DrivingRange.py)  | [:link:](https://open.kattis.com/problems/drivingrange)  |
 | Dungeon | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Dungeon.py)  | [:link:](https://open.kattis.com/problems/dungeon)  |
 | DVDs | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/DVDs.cpp)  | [:link:](https://open.kattis.com/problems/dvds)  |
@@ -222,9 +223,10 @@ Mostly easy problems that don't require me to read a lot.
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [:link:](https://open.kattis.com/problems/rollcall)  |
 | Rot | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rot.py)  | [:link:](https://open.kattis.com/problems/rot)  |
-| Secret Chamber at Mount Rushmore | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SecretChamber.py)  | [:link:](https://open.kattis.com/problems/secretchamber)  |
+| Scaling Recipes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScalingRecipes.py)  | [:link:](https://open.kattis.com/problems/recipes)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [:link:](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [:link:](https://open.kattis.com/problems/scrollingsign)  |
+| Secret Chamber at Mount Rushmore | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/SecretChamber.py)  | [:link:](https://open.kattis.com/problems/secretchamber)  |
 | Shattered Cake | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShatteredCake.py)  | [:link:](https://open.kattis.com/problems/shatteredcake)  |
 | Shopaholic | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Shopaholic.py)  | [:link:](https://open.kattis.com/problems/shopaholic)  |
 | Shopping List | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ShoppingList.py)  | [:link:](https://open.kattis.com/problems/shoppinglist)  |
