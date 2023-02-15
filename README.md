@@ -128,6 +128,7 @@ Mostly easy problems that don't require me to read a lot.
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [:link:](https://open.kattis.com/problems/forests)  |
 | Fountain | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fountain.py)  | [:link:](https://open.kattis.com/problems/fontan)  |
 | Freckles | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Freckles.py)  | [:link:](https://open.kattis.com/problems/freckles)  |
+| Friday the 13th | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Friday.py)  | [:link:](https://open.kattis.com/problems/friday)  |
 | Fridge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fridge.py)  | [:link:](https://open.kattis.com/problems/fridge)  |
 | Full Tank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FullTank.py)  | [:link:](https://open.kattis.com/problems/fulltank)  |
 | Game Rank | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GameRank.py)  | [:link:](https://open.kattis.com/problems/gamerank)  |
