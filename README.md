@@ -55,6 +55,7 @@ Mostly easy problems that don't require me to read a lot.
 | Bungee Builder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeBuilder.py)  | [:link:](https://open.kattis.com/problems/bungeebuilder)  |
 | Bungee Jumping | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BungeeJumping.py)  | [:link:](https://open.kattis.com/problems/bungeejumping)  |
 | Bumped! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Bumped.py)  | [:link:](https://open.kattis.com/problems/bumped)  |
+| Busy Schedule | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/BusySchedule.py)  | [:link:](https://open.kattis.com/problems/busyschedule)  |
 | Button Bashing | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ButtonBashing.py)  | [:link:](https://open.kattis.com/problems/buttonbashing)  |
 | Carousel Rides | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CarouselRides.py)  | [:link:](https://open.kattis.com/problems/carousel)  |
 | Cantina of Babel | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/CantinaOfBabel.py)  | [:link:](https://open.kattis.com/problems/cantinaofbabel)  |
@@ -181,6 +182,7 @@ Mostly easy problems that don't require me to read a lot.
 | Magical Cows | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MagicalCows.py)  | [:link:](https://open.kattis.com/problems/magicalcows)  |
 | Mall Mania | [Python 3(TLE)](https://github.com/gladwinyjh/Kattis/blob/main/python/MallMania.py)  | [:link:](https://open.kattis.com/problems/mallmania)  |
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [:link:](https://open.kattis.com/problems/marko)  |
+| Mars Window | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MarsWindow.py)  | [:link:](https://open.kattis.com/problems/marswindow)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [:link:](https://open.kattis.com/problems/matchgame)  |
 | Millionaire Madness | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MillionaireMadness.py)  | [:link:](https://open.kattis.com/problems/millionairemadness)  |
 | Missing Gnomes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MissingGnomes.py)  | [:link:](https://open.kattis.com/problems/missinggnomes)  |
