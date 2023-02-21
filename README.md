@@ -114,6 +114,7 @@ Mostly easy problems that don't require me to read a lot.
 | Falling Apples | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FallingApples.py)  | [:link:](https://open.kattis.com/problems/apples)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [:link:](https://open.kattis.com/problems/fastfood)  |
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [:link:](https://open.kattis.com/problems/ferryloading3)  |
+| Ferry Loading IV | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading4.py)  | [:link:](https://open.kattis.com/problems/ferryloading4)  |
 | Field Trip | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/FieldTrip.cpp)  | [:link:](https://open.kattis.com/problems/fieldtrip)  |
 | Fire | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire.py)  | [:link:](https://open.kattis.com/problems/fire2)  |
 | Fire! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Fire3.py)  | [:link:](https://open.kattis.com/problems/fire3)  |
@@ -170,6 +171,7 @@ Mostly easy problems that don't require me to read a lot.
 | Ladice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Ladice.py)  | [:link:](https://open.kattis.com/problems/ladice)  |
 | Landlocked | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Landlocked.py)  | [:link:](https://open.kattis.com/problems/landlocked)  |
 | Laptop Sticker | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopSticker.py)  | [:link:](https://open.kattis.com/problems/laptopsticker)  |
+| Laptop Stickers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LaptopStickers.py)  | [:link:](https://open.kattis.com/problems/laptopstickers)  |
 | Lava | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Lava.py)  | [:link:](https://open.kattis.com/problems/lava)  |
 | License To Launch | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/LicenseToLaunch.py)  | [:link:](https://open.kattis.com/problems/licensetolaunch)  |
 | Liga | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Liga.py)  | [:link:](https://open.kattis.com/problems/liga)  |
