@@ -253,6 +253,7 @@ Mostly easy problems that don't require me to read a lot.
 | Tai's Formula | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TaisFormula.py)  | [:link:](https://open.kattis.com/problems/taisformula)  |
 | Tarifa | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tarifa.py)  | [:link:](https://open.kattis.com/problems/tarifa)  |
 | Tetration | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetration.py)  | [:link:](https://open.kattis.com/problems/tetration)  |
+| Tetris | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Tetris.py)  | [:link:](https://open.kattis.com/problems/tetris)  |
 | Texas Summers | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TexasSummers.py)  | [:link:](https://open.kattis.com/problems/texassummers)  |
 | Thanos | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Thanos.cpp)  | [:link:](https://open.kattis.com/problems/thanos)  |
 | The Amazing Human Cannonball | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/TheAmazingHumanCannonBall.py)  | [:link:](https://open.kattis.com/problems/humancannonball2)  |
