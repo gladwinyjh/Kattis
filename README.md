@@ -186,6 +186,7 @@ Mostly easy problems that don't require me to read a lot.
 | Marko | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Marko.py)  | [:link:](https://open.kattis.com/problems/marko)  |
 | Mars Window | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MarsWindow.py)  | [:link:](https://open.kattis.com/problems/marswindow)  |
 | Match Game | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatchGame.py)  | [:link:](https://open.kattis.com/problems/matchgame)  |
+| Matrix Keypad | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MatrixKeypad.py)  | [:link:](https://open.kattis.com/problems/keypad)  |
 | Millionaire Madness | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MillionaireMadness.py)  | [:link:](https://open.kattis.com/problems/millionairemadness)  |
 | Missing Gnomes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/MissingGnomes.py)  | [:link:](https://open.kattis.com/problems/missinggnomes)  |
 | Mjehuric | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Mjehuric.py)  | [:link:](https://open.kattis.com/problems/mjehuric)  |
