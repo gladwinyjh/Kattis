@@ -165,6 +165,7 @@ Mostly easy problems that don't require me to read a lot.
 | Kastenlauf | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kastenlauf.py)  | [:link:](https://open.kattis.com/problems/kastenlauf)  |
 | Keyboards in Concert | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KeyboardsInConcert.py)  | [:link:](https://open.kattis.com/problems/keyboardconcert)  |
 | Kitchen Measurements | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kitchen.py)  | [:link:](https://open.kattis.com/problems/kitchen)  |
+| Knigs Of The Forest | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnigsOfTheForest.py)  | [:link:](https://open.kattis.com/problems/knigsoftheforest)  |
 | Knot Knowledge | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/KnotKnowledge.py)  | [:link:](https://open.kattis.com/problems/knotknowledge)  |
 | Kutevi | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Kutevi.py)  | [:link:](https://open.kattis.com/problems/kutevi)  |
 | Ladder | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Ladder.py)  | [:link:](https://open.kattis.com/problems/ladder)  |
