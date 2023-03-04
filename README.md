@@ -125,6 +125,7 @@ Mostly easy problems that don't require me to read a lot.
 | Flipping Patties | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlippingPatties.py)  | [:link:](https://open.kattis.com/problems/flippingpatties)  |
 | Flow Shop | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FlowShop.py)  | [:link:](https://open.kattis.com/problems/flowshop)  |
 | Flowery Trails | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FloweryTrails.py)  | [:link:](https://open.kattis.com/problems/flowerytrails)  |
+| Foosball Dynasty | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FoosballDynasty.py)  | [:link:](https://open.kattis.com/problems/foosball)  |
 | Forced Choice | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForcedChoice.py)  | [:link:](https://open.kattis.com/problems/forcedchoice)  |
 | Forest Fruits | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ForestFruits.py)  | [:link:](https://open.kattis.com/problems/forestfruits)  |
 | Forests | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Forests.py)  | [:link:](https://open.kattis.com/problems/forests)  |
