@@ -23,6 +23,7 @@ Mostly easy problems that don't require me to read a lot.
 | Another Brick in the Wall | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [:link:](https://open.kattis.com/problems/anotherbrick)  |
 | Ants | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Ants.cpp)  | [:link:](https://open.kattis.com/problems/ants)  |
 | Appalling Architecture | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AppallingArchitecture.py)  | [:link:](https://open.kattis.com/problems/appallingarchitecture)  |
+| A Prize No One Can Win | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/APriceNoOneCanWin.py)  | [:link:](https://open.kattis.com/problems/aprizenoonecanwin)  |
 | Arbitrage | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Arbitrage.py)  | [:link:](https://open.kattis.com/problems/arbitrage)  |
 | Arctic Network | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [:link:](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [:link:](https://open.kattis.com/problems/arrayofdiscord)  |
@@ -111,6 +112,7 @@ Mostly easy problems that don't require me to read a lot.
 | Even Up Solitaire | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/EvenUpSolitaire.cpp)  | [:link:](https://open.kattis.com/problems/evenup)  |
 | Exam | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Exam.py)  | [:link:](https://open.kattis.com/problems/exam)  |
 | Expected Earnings | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ExpectedEarnings.py)  | [:link:](https://open.kattis.com/problems/expectedearnings)  |
+| Falling Apart | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FallingApart.py)  | [:link:](https://open.kattis.com/problems/fallingapart)  |
 | Falling Apples | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FallingApples.py)  | [:link:](https://open.kattis.com/problems/apples)  |
 | Fast Food Prizes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FastFood.py)  | [:link:](https://open.kattis.com/problems/fastfood)  |
 | Ferry Loading III | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/FerryLoading3.py)  | [:link:](https://open.kattis.com/problems/ferryloading3)  |
@@ -138,6 +140,7 @@ Mostly easy problems that don't require me to read a lot.
 | George | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/George.py)  | [:link:](https://open.kattis.com/problems/george)  |
 | Get Shorty | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GetShorty.py)  | [:link:](https://open.kattis.com/problems/getshorty)  |
 | Getting Gold | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GettingGold.py)  | [:link:](https://open.kattis.com/problems/gold)  |
+| Get To Work | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GetToWork.py)  | [:link:](https://open.kattis.com/problems/gettowork)  |
 | Good Morning! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GoodMorning.py)  | [:link:](https://open.kattis.com/problems/goodmorning)  |
 | Grandpa Bernie | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/GrandpaBernie.py)  | [:link:](https://open.kattis.com/problems/grandpabernie)  |
 | Grid | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Grid.py)  | [:link:](https://open.kattis.com/problems/grid)  |
