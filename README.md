@@ -23,7 +23,7 @@ Mostly easy problems that don't require me to read a lot.
 | Another Brick in the Wall | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AnotherBrick.py)  | [:link:](https://open.kattis.com/problems/anotherbrick)  |
 | Ants | [C++](https://github.com/gladwinyjh/Kattis/blob/main/cpp/Ants.cpp)  | [:link:](https://open.kattis.com/problems/ants)  |
 | Appalling Architecture | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/AppallingArchitecture.py)  | [:link:](https://open.kattis.com/problems/appallingarchitecture)  |
-| A Prize No One Can Win | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/APriceNoOneCanWin.py)  | [:link:](https://open.kattis.com/problems/aprizenoonecanwin)  |
+| A Prize No One Can Win | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/APrizeNoOneCanWin.py)  | [:link:](https://open.kattis.com/problems/aprizenoonecanwin)  |
 | Arbitrage | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Arbitrage.py)  | [:link:](https://open.kattis.com/problems/arbitrage)  |
 | Arctic Network | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArcticNetwork.py)  | [:link:](https://open.kattis.com/problems/arcticnetwork)  |
 | Array of Discord| [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ArrayOfDiscord.py)  | [:link:](https://open.kattis.com/problems/arrayofdiscord)  |
