@@ -234,6 +234,7 @@ Mostly easy problems that don't require me to read a lot.
 | Rock-Paper-Scissors Tournament | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RockPaperScissors.py)  | [:link:](https://open.kattis.com/problems/rockpaperscissors)  |
 | Role Call | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RollCall.py)  | [:link:](https://open.kattis.com/problems/rollcall)  |
 | Rot | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Rot.py)  | [:link:](https://open.kattis.com/problems/rot)  |
+| Running Race | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/RunningRace.py)  | [:link:](https://open.kattis.com/problems/kaploeb)  |
 | Scaling Recipes | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScalingRecipes.py)  | [:link:](https://open.kattis.com/problems/recipes)  |
 | Score! | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/Score.py)  | [:link:](https://open.kattis.com/problems/score)  |
 | Scrolling Sign | [Python 3](https://github.com/gladwinyjh/Kattis/blob/main/python/ScrollingSign.py)  | [:link:](https://open.kattis.com/problems/scrollingsign)  |
